@@ -1,9 +1,0 @@
-Use precisely the same mechanism to deploy to every environment.
-
-Always include an automated smoke test to check if the release completed successfully.
-
-Build once, and pass the same binary between environments.
-
-Adopt a zero-downtime deployment strategy to enable frequent releases.
-
-Use canary releases and quick rollback to reduce the risk of bugs in the production.
