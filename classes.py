@@ -97,6 +97,7 @@ class Node:
 
 
 if __name__ == '__main__':
+    
     root = Node(12)
     child_1 = Node(111)
     child_2 = Node(222)

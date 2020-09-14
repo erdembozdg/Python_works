@@ -1,0 +1,1855 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<rss version="2.0">
+
+<channel>
+	<title>Planet Python</title>
+	<link>http://planetpython.org/</link>
+	<language>en</language>
+	<description>Planet Python - http://planetpython.org/</description>
+
+<item>
+	<title>Mike Driscoll: PyDev of the Week: D&#233;bora Azevedo</title>
+	<guid>https://www.blog.pythonlibrary.org/2020/09/14/pydev-of-the-week-debora-azevedo/</guid>
+	<link>https://www.blog.pythonlibrary.org/2020/09/14/pydev-of-the-week-debora-azevedo/</link>
+	<description>&lt;p&gt;This week we welcome D&#233;bora Azevedo (&lt;a href="https://twitter.com/pydebb" rel="noopener noreferrer" target="_blank"&gt;@pydebb&lt;/a&gt;) as our PyDev of the Week! D&#233;bora is active in the PyLadies and DjangoGirls groups as well as teaching Python at PyLadies workshops. Let&amp;#8217;s spend some time getting to know her better!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Can you tell us a little about yourself (hobbies, education, etc):&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I&#8217;m an educator. I love teaching, and I&#8217;m working now as an English teacher in my state&#8217;s public network. But I have also taught Python in some PyLadies workshops. I&#8217;m doing my master&#8217;s degree in Innovation in Educational Technologies. For the past months, I&#8217;ve been working on developing educational software to assist deaf children in their literacy process from a bilingual perspective, considering that here in Brazil they learn Brazilian Sign Language and also written Portuguese. In my free time, I like to invest in the community (which has invested so much in me). From meetings online to translating blog posts and managing social media profiles, one thing worth pointing out about me is the involvement in the Python community here in Brazil, especially with PyLadies Brazil, which I contribute the most to. My most beloved hobbies are reading (love both Agatha Christie and Sir Arthur Conan Doyle), playing guitar and singing. I also write sporadically in my &lt;a href="http://deboraazevedo.github.io/" rel="noopener noreferrer" target="_blank"&gt;blog&lt;/a&gt; (in Portuguese).&lt;span id="more-9992"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why did you start using Python?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Well, that&#8217;s a funny story. I started using Python when I was in my Computer Networking technical course. I remember that, back then, I chose to do this specific course because I thought there would be no programming involved. In this course, we had 3 programming classes, and all of them were taught in Python! We studied structured programming, object-oriented programming, and web development with Django. It was a milestone for me, especially with all the difficult background I had with programming. During high school, I went through a mix of not having a computer, writing Java code in my notebook, and wanting to break the school&#8217;s computer down whenever I saw something was not compiling. With Python, there were no traumas, no hard feelings. Python showed me I could actually build things, I was capable. It was extremely empowering.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What other programming languages do you know and which is your favorite?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When I first started to learn to code in high school, we used a language called Portugol, which had their commands and reserved keywords in Portuguese, and then some Java. At the university, I got to learn some C and C++. Of course I&amp;#8217;m not a master in any of these languages but my favorite is definitely Python.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Which Python libraries are your favorite (core or 3rd party)?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I loooooove Turtle graphics! When I had my first Python classes, my teacher used to teach us how to make geometric shapes with the turtle library and it was so much fun. Turtle was part of the original Logo programming language, and it is also implemented with Python in its latest version. It&#8217;s a very popular way to introduce programming to kids. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What projects are you working on now?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;My main project right now is the development of my master&#8217;s educacional software. I&#8217;ve been working from the conception, pedagogical approach, designing the screens, interactions, and (haven&#8217;t started this part yet) writing the code. Apart from that, I do a lot of open source projects, especially with the PyLadies community. Lately, I&#8217;ve been serving as part of the PyLadies Global interim group, trying to figure things out for the first PyLadies global council &lt;a href="http://elections.pyladies.com/" rel="noopener noreferrer" target="_blank"&gt;election&lt;/a&gt;, doing outreach with localing the website and participating in some lives. Regarding PyLadies in Brazil, I&#8217;m currently helping with the communications team, and also the Python study group we are trying to start (in a  national level due to the pandemic)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What do you like best about the PyLadies and Django Girls groups?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I could spend hours talking about the importance of being part of a community such as PyLadies and Django Girls. But what I like the most about it is the sense of belonging I feel about being a member of these communities. Your background, your experiences,  your area of study, they are all enriching to the construction of our community. Having diverse people, in all sorts of ways, is what makes being part of a community so fulfilling.  It&#8217;s a matter of knowing we have a voice to be heard and a safe space to occupy. And I say that being a person that doesn&#8217;t work with software development for living. For a long time, I myself felt that the space I was occupying was not for me. But at the same time, I was in events, I was organizing meetups, I was giving talks about the community. What was missing? Me realizing that my background is just a piece of who I am, and sharing the same vision tons of other women share regarding PyLadies, is enough.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How did you get into doing translations for the PSF?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I do some freelance work as a translator, translating scientific articles, and doing simultaneous translation as well. So if I do that for living, it was something I felt comfortable doing in order to contribute to the community as well. Living in Brazil, I can see that a huge part of the population doesn&#8217;t know English. Therefore, this work is extremely important to help people to have access to information about the PSF and about Python itself. I&#8217;ve translated a Python survey for the PSF, the PyLadies election website into Portuguese (&lt;a href="http://elections.pyladies.com/pt/" rel="noopener noreferrer" target="_blank"&gt;link&lt;/a&gt;) and I&#8217;m also part of a group that works in the internationalization of Python&#8217;s official documentation. For this last part, we have a strong group of translators doing this work. If you know Portuguese (&lt;a href="https://t.me/pybr_i18n" rel="noopener noreferrer" target="_blank"&gt;this&lt;/a&gt;) is the link to our group on Telegram we use to communicate among ourselves.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Is there anything else you&#8217;d like to say?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I can say that being part of the Python community literally changed my life. I took me to places I never thought I would go, to spread the word about PyLadies. I love Bret Cannon&#8217;s quote: &#8220;Come for the language, stay for the community&#8221;. I first came to know the language, use it for school projects. Now I&#8217;m working on a national and global level in order to make other people have the same heart-warming feeling of belonging I have. So if you have the chance to do something, do invest a little of your time in the community. You have no idea of the impact it can have in someone&#8217;s life.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thanks for doing the interview, D&#233;bora!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://www.blog.pythonlibrary.org/2020/09/14/pydev-of-the-week-debora-azevedo/"&gt;PyDev of the Week: D&#233;bora Azevedo&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.blog.pythonlibrary.org"&gt;The Mouse Vs. The Python&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Mon, 14 Sep 2020 05:05:55 +0000</pubDate>
+</item>
+<item>
+	<title>Codementor: Python vs R, Which is the Best Language for Data Analysis?</title>
+	<guid>https://www.codementor.io/ajaykapoor/python-vs-r-which-is-the-best-language-for-data-analysis-1aad7c0fkx</guid>
+	<link>https://www.codementor.io/ajaykapoor/python-vs-r-which-is-the-best-language-for-data-analysis-1aad7c0fkx</link>
+	<description>Data Analytics is needed in Business to Consumer applications (B2C). Organisations collect data that they have gathered from customers, businesses, economy and practical experience. Data is then...</description>
+	<pubDate>Mon, 14 Sep 2020 04:33:25 +0000</pubDate>
+</item>
+<item>
+	<title>Ned Batchelder: Song-basket</title>
+	<guid>https://nedbatchelder.com//blog/202009/songbasket.html</guid>
+	<link>https://nedbatchelder.com//blog/202009/songbasket.html</link>
+	<description>&lt;p&gt;I threw together a Spotify API program called
+&lt;a href="https://github.com/nedbat/song-basket" rel="external noopener"&gt;song-basket&lt;/a&gt;.  I have a few
+large themed playlists (for example, Instrumental Funk).  This app is to help me
+add songs to them.  I can choose a playlist (the basket), and then as I surf
+around Spotify, it lets me add the current song to the basket with one click.
+It also shows me whether the current song is already in the basket or not, which
+they often are.  If the song is already in the basket, I don&amp;#8217;t have to think
+about whether to add it, and I don&amp;#8217;t have to deal with the annoying &amp;#8220;Add
+duplicate?&amp;#8221; question.&lt;/p&gt;&lt;p&gt;This started as an
+&lt;a href="https://tekore.readthedocs.io/en/stable/examples/auth_server.html" rel="external noopener"&gt;example
+in the Tekore docs&lt;/a&gt;, and I hacked at it until it did what I wanted.  A lot of
+it is wrong: no templating, incorrect HTML, a stateful web application, horrid
+styling, and so on.  It doesn&amp;#8217;t matter, it&amp;#8217;s a quick app to do what I need.  If
+I want, I can polish it later.&lt;/p&gt;</description>
+	<pubDate>Sun, 13 Sep 2020 21:03:20 +0000</pubDate>
+</item>
+<item>
+	<title>Codementor: Building A Color Picker in PyGame using Hooman</title>
+	<guid>https://www.codementor.io/abdurrahmaanj/building-a-color-picker-in-pygame-using-hooman-1a9uoo4925</guid>
+	<link>https://www.codementor.io/abdurrahmaanj/building-a-color-picker-in-pygame-using-hooman-1a9uoo4925</link>
+	<description>Building a color picker using Python</description>
+	<pubDate>Sun, 13 Sep 2020 17:20:58 +0000</pubDate>
+</item>
+<item>
+	<title>Test and Code: 130: virtualenv activation prompt consistency across shells - an open source dev and test adventure - Brian Skinn</title>
+	<guid>https://testandcode.com/130</guid>
+	<link>https://testandcode.com/130</link>
+	<description>&lt;p&gt;virtualenv supports six shells: bash, csh, fish, xonsh, cmd, posh. Each handles prompts slightly differently. Although the virtualenv custom prompt behavior should be the same across shells, Brian Skinn noticed inconsistencies. He set out to fix those inconsistencies. That was the start of an adventure in open source collaboration, shell prompt internals, difficult test problems, and continuous integration quirks. &lt;/p&gt;
+
+&lt;p&gt;Brian Skinn initially noticed that on Windows cmd, a space was added between a prefix defined by &lt;code&gt;--prompt&lt;/code&gt; and the rest of the prompt, whereas on bash no space was added.&lt;/p&gt;
+
+&lt;p&gt;For reference, there were/are three nominal virtualenv prompt modification behaviors, all of which apply to the prompt changes that are made at the time of virtualenv activation:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;If the environment variable &lt;code&gt;VIRTUAL_ENV_DISABLE_PROMPT&lt;/code&gt; is defined and non-empty at activation time, do not modify the prompt at all. Otherwise:&lt;/li&gt;
+&lt;li&gt; If the &lt;code&gt;--prompt&lt;/code&gt; argument was supplied at creation time, use that argument as the prefix to apply to the prompt; or,&lt;/li&gt;
+&lt;li&gt;If the &lt;code&gt;--prompt&lt;/code&gt; argument was not supplied at creation time, use the default prefix of &lt;code&gt;&amp;quot;({{ envname }}) &amp;quot;&lt;/code&gt; as the prefix (the environment folder name surrounded by parentheses, and with a trailing space after the last paren.&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;Special Guest: Brian Skinn.&lt;/p&gt;&lt;p&gt;Sponsored By:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://talkpython.fm/test" rel="nofollow"&gt;Talk Python Training&lt;/a&gt;: &lt;a href="https://talkpython.fm/test" rel="nofollow"&gt;Online video courses for Python developers&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.honeybadger.io/" rel="nofollow"&gt;HoneyBadger&lt;/a&gt;: &lt;a href="https://www.honeybadger.io/" rel="nofollow"&gt;When bad things happen, it's nice to know that Honeybadger has your back.  30% off for first 6 months when you mention Test &amp;amp; Code Podcast when signing up.&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://testandcode.com/pycharm" rel="nofollow"&gt;PyCharm Professional&lt;/a&gt;: &lt;a href="https://testandcode.com/pycharm" rel="nofollow"&gt;Try PyCharm Pro for 4 months and learn how PyCharm will save you time.&lt;/a&gt; Promo Code: TESTANDCODE20&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.patreon.com/testpodcast" rel="payment"&gt;Support Test &amp;amp; Code :  Python Testing for Software Engineering&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Links:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://virtualenv.pypa.io/en/latest/" title="virtualenv" rel="nofollow"&gt;virtualenv&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/pypa/virtualenv/issues/1168" title="Initial issue that started the adventure" rel="nofollow"&gt;Initial issue that started the adventure&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/pypa/virtualenv/pull/1330" title="final PR" rel="nofollow"&gt;final PR&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/bskinn/pent" title="pent: pent Extracts Numerical Text -- Mini-language driven parser for structured numerical data" rel="nofollow"&gt;pent: pent Extracts Numerical Text -- Mini-language driven parser for structured numerical data&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=sRwHWPDJBnk&amp;t=1050" title="Lightening talk on pent" rel="nofollow"&gt;Lightening talk on pent&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&amp;lt;p&amp;gt;virtualenv supports six shells: bash, csh, fish, xonsh, cmd, posh. Each handles prompts slightly differently. Although the virtualenv custom prompt behavior should be the same across shells, Brian Skinn noticed inconsistencies. He set out to fix those inconsistencies. That was the start of an adventure in open source collaboration, shell prompt internals, difficult test problems, and continuous integration quirks. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Brian Skinn initially noticed that on Windows cmd, a space was added between a prefix defined by &amp;lt;code&amp;gt;--prompt&amp;lt;/code&amp;gt; and the rest of the prompt, whereas on bash no space was added.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;For reference, there were/are three nominal virtualenv prompt modification behaviors, all of which apply to the prompt changes that are made at the time of virtualenv activation:&amp;lt;/p&amp;gt;
+
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;If the environment variable &amp;lt;code&amp;gt;VIRTUAL_ENV_DISABLE_PROMPT&amp;lt;/code&amp;gt; is defined and non-empty at activation time, do not modify the prompt at all. Otherwise:&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt; If the &amp;lt;code&amp;gt;--prompt&amp;lt;/code&amp;gt; argument was supplied at creation time, use that argument as the prefix to apply to the prompt; or,&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;If the &amp;lt;code&amp;gt;--prompt&amp;lt;/code&amp;gt; argument was not supplied at creation time, use the default prefix of &amp;lt;code&amp;gt;&amp;amp;quot;({{ envname }}) &amp;amp;quot;&amp;lt;/code&amp;gt; as the prefix (the environment folder name surrounded by parentheses, and with a trailing space after the last paren.&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;&amp;lt;p&amp;gt;Special Guest: Brian Skinn.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Sponsored By:&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;a href="https://talkpython.fm/test" rel="nofollow"&amp;gt;Talk Python Training&amp;lt;/a&amp;gt;: &amp;lt;a href="https://talkpython.fm/test" rel="nofollow"&amp;gt;Online video courses for Python developers&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;a href="https://www.honeybadger.io/" rel="nofollow"&amp;gt;HoneyBadger&amp;lt;/a&amp;gt;: &amp;lt;a href="https://www.honeybadger.io/" rel="nofollow"&amp;gt;When bad things happen, it's nice to know that Honeybadger has your back.  30% off for first 6 months when you mention Test &amp;amp; Code Podcast when signing up.&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;a href="https://testandcode.com/pycharm" rel="nofollow"&amp;gt;PyCharm Professional&amp;lt;/a&amp;gt;: &amp;lt;a href="https://testandcode.com/pycharm" rel="nofollow"&amp;gt;Try PyCharm Pro for 4 months and learn how PyCharm will save you time.&amp;lt;/a&amp;gt; Promo Code: TESTANDCODE20&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href="https://www.patreon.com/testpodcast" rel="payment"&amp;gt;Support Test &amp;amp; Code :  Python Testing for Software Engineering&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Links:&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;&amp;lt;a href="https://virtualenv.pypa.io/en/latest/" title="virtualenv" rel="nofollow"&amp;gt;virtualenv&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;a href="https://github.com/pypa/virtualenv/issues/1168" title="Initial issue that started the adventure" rel="nofollow"&amp;gt;Initial issue that started the adventure&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;a href="https://github.com/pypa/virtualenv/pull/1330" title="final PR" rel="nofollow"&amp;gt;final PR&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;a href="https://github.com/bskinn/pent" title="pent: pent Extracts Numerical Text -- Mini-language driven parser for structured numerical data" rel="nofollow"&amp;gt;pent: pent Extracts Numerical Text -- Mini-language driven parser for structured numerical data&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;&amp;lt;a href="https://www.youtube.com/watch?v=sRwHWPDJBnk&amp;amp;t=1050" title="Lightening talk on pent" rel="nofollow"&amp;gt;Lightening talk on pent&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;</description>
+	<pubDate>Sun, 13 Sep 2020 16:30:00 +0000</pubDate>
+</item>
+<item>
+	<title>Kushal Das: Reproducible wheels at SecureDrop</title>
+	<guid>https://kushaldas.in/posts/reproducible-wheels-at-securedrop.html</guid>
+	<link>https://kushaldas.in/posts/reproducible-wheels-at-securedrop.html</link>
+	<description>&lt;!--
+.. title: Reproducible wheels at SecureDrop
+.. slug: reproducible-wheels-at-securedrop
+.. date: 2020-09-13T10:52:07+05:30
+.. tags: Python, Wheels, SecureDrop, News
+.. link:
+.. description:
+.. type: text
+--&gt;
+&lt;p&gt;&lt;img src="https://kushaldas.in/images/reproducible_wheels1.png" alt="screenshot" /&gt;&lt;/p&gt;
+&lt;p&gt;SecureDrop workstation project's packages are reproducible. We use prebuilt
+wheels (by us) along with GPG signatures to verify and install them using &lt;code&gt;pip&lt;/code&gt;
+during the Debian package building step. But, the way we built those wheels
+(standard pip command), they were not reproducible.&lt;/p&gt;
+&lt;p&gt;To fix this problem, Jennifer Helsby (aka
+&lt;a href="https://twitter.com/redshiftzero"&gt;redshiftzero&lt;/a&gt;) built a tool and the results
+are available at &lt;a href="https://reproduciblewheels.com/"&gt;https://reproduciblewheels.com/&lt;/a&gt;. Every night her tool is
+building the top 100 + our dependency packages on Debian Buster and verifies
+the reproducibly of them. She has a &lt;a href="https://redshiftzero.github.io/reproducible-wheels/"&gt;detailed write
+up&lt;/a&gt; on the steps.&lt;/p&gt;
+&lt;p&gt;While this issue was fixed, a related issue was to have reproducible source
+tarballs. &lt;code&gt;python3 setup.py sdist&lt;/code&gt; still does not give us a reproducible
+tarballs. Conor Schaefer, our CTO at the &lt;a href="https://freedom.press"&gt;Freedom of the Press Foundation&lt;/a&gt;
+decided to tackle that issue &lt;a href="https://github.com/freedomofpress/securedrop-debian-packaging/pull/185/files#diff-c58f705329438eb1a08fd599b0bef33fR95-R104"&gt;using a few more lines of
+bash&lt;/a&gt;
+in our build scripts. Now we have reproducible wheels and source tarballs
+(based on specified timestamps) for our projects.&lt;/p&gt;</description>
+	<pubDate>Sun, 13 Sep 2020 05:22:07 +0000</pubDate>
+</item>
+<item>
+	<title>Weekly Python StackOverflow Report: (ccxlii) stackoverflow python report</title>
+	<guid>http://python-weekly.blogspot.com/2020/09/ccxlii-stackoverflow-python-report.html</guid>
+	<link>http://python-weekly.blogspot.com/2020/09/ccxlii-stackoverflow-python-report.html</link>
+	<description>&lt;p&gt;These are the ten most rated questions at &lt;a href="http://www.stackoverflow.com"&gt;Stack Overflow&lt;/a&gt; last week.&lt;br /&gt;Between brackets: [&lt;b&gt;question score&lt;/b&gt; / answers count]&lt;br /&gt;Build date: 2020-09-12 11:52:16 GMT&lt;/p&gt;&lt;hr /&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="http://stackoverflow.com/questions/63757763" target="_blank"&gt;timeit and its default_timer completely disagree&lt;/a&gt; - [&lt;b&gt;14&lt;/b&gt;/1]&lt;/li&gt;&lt;li&gt;&lt;a href="http://stackoverflow.com/questions/63840851" target="_blank"&gt;Compare current row value to previous row values&lt;/a&gt; - [&lt;b&gt;7&lt;/b&gt;/3]&lt;/li&gt;&lt;li&gt;&lt;a href="http://stackoverflow.com/questions/63855705" target="_blank"&gt;Delete diagonals of zero elements&lt;/a&gt; - [&lt;b&gt;6&lt;/b&gt;/4]&lt;/li&gt;&lt;li&gt;&lt;a href="http://stackoverflow.com/questions/63856540" target="_blank"&gt;How to check to make sure all items in a list are of a certain type&lt;/a&gt; - [&lt;b&gt;6&lt;/b&gt;/4]&lt;/li&gt;&lt;li&gt;&lt;a href="http://stackoverflow.com/questions/63774153" target="_blank"&gt;how to calculate the minimum unfairness sum of a list&lt;/a&gt; - [&lt;b&gt;6&lt;/b&gt;/2]&lt;/li&gt;&lt;li&gt;&lt;a href="http://stackoverflow.com/questions/63791501" target="_blank"&gt;Have unique index value in Pandas DataFrame&lt;/a&gt; - [&lt;b&gt;6&lt;/b&gt;/2]&lt;/li&gt;&lt;li&gt;&lt;a href="http://stackoverflow.com/questions/63774674" target="_blank"&gt;Python pandas print value where column = X and row = Y&lt;/a&gt; - [&lt;b&gt;5&lt;/b&gt;/4]&lt;/li&gt;&lt;li&gt;&lt;a href="http://stackoverflow.com/questions/63796920" target="_blank"&gt;Nested list of dictionary with nested list of dictionary into a Pandas dataframe&lt;/a&gt; - [&lt;b&gt;5&lt;/b&gt;/4]&lt;/li&gt;&lt;li&gt;&lt;a href="http://stackoverflow.com/questions/63760168" target="_blank"&gt;Python - Reading Powershell script output, using subprocess, want to receive stdout line by line&lt;/a&gt; - [&lt;b&gt;5&lt;/b&gt;/2]&lt;/li&gt;&lt;li&gt;&lt;a href="http://stackoverflow.com/questions/63780291" target="_blank"&gt;Plotly: How to animate a bar chart with multiple groups using plotly express?&lt;/a&gt; - [&lt;b&gt;5&lt;/b&gt;/2]&lt;/li&gt;&lt;/ol&gt;</description>
+	<pubDate>Sat, 12 Sep 2020 11:52:00 +0000</pubDate>
+</item>
+<item>
+	<title>Python Circle: How to use Jupyter Notebook for practicing python programs</title>
+	<guid>https://www.pythoncircle.com/post/717/how-to-use-jupyter-notebook-for-practicing-python-programs/</guid>
+	<link>https://www.pythoncircle.com/post/717/how-to-use-jupyter-notebook-for-practicing-python-programs/</link>
+	<description>How to use Jupyter Notebook for practicing python programs, jupyter notebook installation and usage in linux ubuntu 16.04, Writing first program with Jupyter notebook, uploading file in jupyter notebook</description>
+	<pubDate>Sat, 12 Sep 2020 10:45:11 +0000</pubDate>
+</item>
+<item>
+	<title>Matt Layman: From Concept To Live In Two Weeks With Django</title>
+	<guid>https://www.mattlayman.com/blog/2020/concept-to-live-with-django/</guid>
+	<link>https://www.mattlayman.com/blog/2020/concept-to-live-with-django/</link>
+	<description>My team had two weeks to make a viable product. We were a random group of people pulled together with a desire to help our local community in Frederick, Maryland. We were a student, a web designer, a former realtor turned IT support person, and a software developer.
+Our mission, which was put forth by the virtual hackathon that brought us together, was to try to make a tool to help the local homeless.</description>
+	<pubDate>Sat, 12 Sep 2020 10:43:07 +0000</pubDate>
+</item>
+<item>
+	<title>Mike Driscoll: Python 101 &#8211; Learning About Comprehensions (Video)</title>
+	<guid>https://www.blog.pythonlibrary.org/2020/09/11/python-101-learning-about-comprehensions-video/</guid>
+	<link>https://www.blog.pythonlibrary.org/2020/09/11/python-101-learning-about-comprehensions-video/</link>
+	<description>&lt;p&gt;In this tutorial, you will learn about Python&amp;#8217;s comprehensions, like the popular list comprehension and the dictionary comprehension.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://leanpub.com/py101/"&gt;&lt;img src="https://www.blog.pythonlibrary.org/wp-content/uploads/2020/02/py101_thumb.jpg" alt="" width="227" height="300" class="aligncenter size-medium wp-image-8184" /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;Would you like to learn more about Python? &lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;Python 101 &amp;#8211; 2nd Edition&lt;/h3&gt;
+&lt;h4&gt;&lt;strong&gt;Purchase now on &lt;a href="https://leanpub.com/py101" target="_blank" rel="noopener noreferrer"&gt;Leanpub&lt;/a&gt; or &lt;a href="https://amzn.to/2Zo1ARG" target="_blank" rel="noopener noreferrer"&gt;Amazon&lt;/a&gt;&lt;/strong&gt;&lt;/h4&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://www.blog.pythonlibrary.org/2020/09/11/python-101-learning-about-comprehensions-video/"&gt;Python 101 &amp;#8211; Learning About Comprehensions (Video)&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.blog.pythonlibrary.org"&gt;The Mouse Vs. The Python&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Fri, 11 Sep 2020 15:07:40 +0000</pubDate>
+</item>
+<item>
+	<title>Codementor: Python Testing Framework - Reading Time: 3 Mins</title>
+	<guid>https://www.codementor.io/maxongzb/python-testing-framework-reading-time-3-mins-1a7ebdvgko</guid>
+	<link>https://www.codementor.io/maxongzb/python-testing-framework-reading-time-3-mins-1a7ebdvgko</link>
+	<description>The 3 Python testing framework that I would recommend for any Python developer looking to use to speed up deployment and reduce the amount of manual testing required.</description>
+	<pubDate>Fri, 11 Sep 2020 13:06:48 +0000</pubDate>
+</item>
+<item>
+	<title>Stack Abuse: Guide to String Interning in Python</title>
+	<guid>https://stackabuse.com/guide-to-string-interning-in-python/</guid>
+	<link>https://stackabuse.com/guide-to-string-interning-in-python/</link>
+	<description>&lt;!--kg-card-begin: markdown--&gt;&lt;h3 id="introduction"&gt;Introduction&lt;/h3&gt;
+&lt;img src="https://stackabuse.com/content/images/2020/09/guide-to-string-interning-in-python-header.jpg" alt="Guide to String Interning in Python" /&gt;&lt;p&gt;One of the first things you encounter while learning the basics of programming is the concept of strings. Similar to various programming languages, Python strings are arrays of bytes representing Unicode characters - an array or sequence of characters. Python, unlike many programming languages, doesn&#8217;t have a distinct &lt;em&gt;character&lt;/em&gt; datatype, and characters are considered strings of length 1.&lt;/p&gt;
+&lt;p&gt;You can define a string using single or double quotation marks, for example, &lt;code&gt;a = &amp;quot;Hello World&amp;quot;&lt;/code&gt; or &lt;code&gt;a = 'Hello World'&lt;/code&gt;. To access a specific element of a string, you would use square brackets (&lt;code&gt;[]&lt;/code&gt;) with the index of the character you wish to access (indexing starts at 0). Calling &lt;code&gt;a[0]&lt;/code&gt;, for example, would return &lt;code&gt;H&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;That being said, let's take a look at this code example:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-python"&gt;a = 'Hello World'
+b = 'Hello World'
+c = 'Hello Worl'
+
+print(a is b)
+print(a == b)
+print(a is c+'d')
+print(a == c+'d')
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;All of the strings we compare hold the value of &lt;code&gt;Hello World&lt;/code&gt; (&lt;code&gt;a&lt;/code&gt;, &lt;code&gt;b&lt;/code&gt;, and &lt;code&gt;c +'d'&lt;/code&gt;). It might be intuitive to assume that the output would be &lt;code&gt;True&lt;/code&gt; for all these statements.&lt;/p&gt;
+&lt;p&gt;However, when we run the code, it results in:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-plaintext"&gt;True
+True
+False
+True
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;What's might look unintuitive about this output is that &lt;code&gt;a is c + 'd'&lt;/code&gt; returns &lt;code&gt;False&lt;/code&gt;, while a very similar statement &lt;code&gt;a is b&lt;/code&gt; returns &lt;code&gt;True&lt;/code&gt;. With this, we can conclude that &lt;code&gt;a&lt;/code&gt; and &lt;code&gt;b&lt;/code&gt; are the same object, while &lt;code&gt;c&lt;/code&gt; is a different one, even though they hold the same value.&lt;/p&gt;
+&lt;p&gt;If you are unfamiliar with the &lt;a target="_blank" href="https://stackabuse.com/is-vs-python-object-comparison/"&gt;Difference Between &lt;code&gt;==&lt;/code&gt; and &lt;code&gt;is&lt;/code&gt;&lt;/a&gt; - &lt;code&gt;is&lt;/code&gt; checks whether the variables are referring to the same &lt;em&gt;object in memory&lt;/em&gt;, while &lt;code&gt;==&lt;/code&gt; checks whether the variables have the same &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;This distinction between &lt;code&gt;a&lt;/code&gt;, &lt;code&gt;b&lt;/code&gt; and &lt;code&gt;c&lt;/code&gt; is the product of &lt;em&gt;String Interning&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The environment in which you run the code affects how string interning works. The previous examples were results of running the code as a script in a non-interactive environment, using the current latest version of Python (version 3.8.5). The behavior will be different when using the console/Jupyter because of different ways in which the code is optimized, or even between different versions of Python.&lt;/p&gt;
+&lt;p&gt;This is because different environments have different optimization levels.&lt;/p&gt;
+&lt;h3 id="stringinterning"&gt;String Interning&lt;/h3&gt;
+&lt;p&gt;Strings are &lt;strong&gt;immutable objects&lt;/strong&gt; in Python. This means that once strings are created, we can not change or update them.  Even if it seems like a string has been modified, under the hood, a copy with the modified value was created and assigned to the variable, while the original string remained the same.&lt;/p&gt;
+&lt;p&gt;Let's attempt to modify a string:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-python"&gt;name = 'Wtack Abuse!'
+name[0] = 'S'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As the string &lt;code&gt;name&lt;/code&gt; is immutable, this code will fail on the last line:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-plaintext"&gt;name[0] = 'S'
+TypeError: 'str' object does not support item assignment
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; If you really did want to change a particular character of a string, you could convert the string into a mutable object like a &lt;code&gt;list&lt;/code&gt;, and change the desired element:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-python"&gt;name = 'Wtack Abuse!'
+name = list(name)
+name[0] = 'S'
+# Converting back to string
+name = &amp;quot;&amp;quot;.join(name) 
+
+print(name)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Which gives us the desired output:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-python"&gt;Stack Abuse!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The reason why we could change the character in the list (and not in the string) is because lists are mutable - meaning that we can change their elements.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;String Interning is a process of storing only &lt;em&gt;one copy&lt;/em&gt; of each distinct string value in memory.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This means that, when we create two strings with the same value - instead of allocating memory for both of them, only one string is actually committed to memory. The other one just points to that same memory location.&lt;/p&gt;
+&lt;p&gt;Given this information, let's go back to the initial &lt;code&gt;Hello World&lt;/code&gt; example:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-python"&gt;a = 'Hello World'
+b = 'Hello World'
+c = 'Hello Worl'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;When string &lt;code&gt;a&lt;/code&gt; is created, the compiler checks if &lt;code&gt;Hello World&lt;/code&gt; is present in interned memory. Since it is the first occurrence of this string value, Python creates an object and caches this string in memory and points &lt;code&gt;a&lt;/code&gt; to this reference.&lt;/p&gt;
+&lt;p&gt;When &lt;code&gt;b&lt;/code&gt; is created, &lt;code&gt;Hello World&lt;/code&gt; is found by the compiler in the interned memory so instead of creating another string, &lt;code&gt;b&lt;/code&gt; simply points to the previously allocated memory.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://stackabuse.s3.amazonaws.com/media/guide-to-string-interning-in-python-1.png" alt="Guide to String Interning in Python" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;a is b&lt;/code&gt; and &lt;code&gt;a == b&lt;/code&gt; in this case.&lt;/p&gt;
+&lt;p&gt;Finally, when we create the string &lt;code&gt;c = 'Hello Worl'&lt;/code&gt;, the compiler instantiates another object in interned memory because it could not find the same object for reference.&lt;/p&gt;
+&lt;p&gt;When we compare &lt;code&gt;a&lt;/code&gt; and &lt;code&gt;c+'d'&lt;/code&gt;, the latter is evaluated to &lt;code&gt;Hello World&lt;/code&gt;. However, since Python doesn't do interning during runtime, a new object is created instead. Thus, since no interning was done, these two &lt;em&gt;aren't&lt;/em&gt; the same object and &lt;code&gt;is&lt;/code&gt; returns &lt;code&gt;False&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;In contrast to the &lt;code&gt;is&lt;/code&gt; operator, the &lt;code&gt;==&lt;/code&gt; operator compares the values of the strings after computing &lt;em&gt;runtime&lt;/em&gt; expressions - &lt;code&gt;Hello World == Hello World&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;At that time, &lt;code&gt;a&lt;/code&gt; and &lt;code&gt;c+'d'&lt;/code&gt; are the same, value-wise, so this returns &lt;code&gt;True&lt;/code&gt;.&lt;/p&gt;
+&lt;h4 id="verification"&gt;Verification&lt;/h4&gt;
+&lt;p&gt;Let's see the &lt;em&gt;id&lt;/em&gt; of string objects we created. The &lt;code&gt;id(object)&lt;/code&gt; function in Python returns the ID of &lt;code&gt;object&lt;/code&gt;, which is guaranteed to be unique during the lifetime of the said object. If two variables point to the same object, calling &lt;code&gt;id&lt;/code&gt; would return the same number:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-python"&gt;letter_d = 'd'
+
+a = 'Hello World'
+b = 'Hello World'
+c = 'Hello Worl' + letter_d
+d = 'Hello Worl' + 'd'
+
+print(f&amp;quot;The ID of a: {id(a)}&amp;quot;)
+print(f&amp;quot;The ID of b: {id(b)}&amp;quot;)
+print(f&amp;quot;The ID of c: {id(c)}&amp;quot;)
+print(f&amp;quot;The ID of d: {id(d)}&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This results in:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-plaintext"&gt;The ID of a: 16785960
+The ID of b: 16785960
+The ID of c: 17152424
+The ID of d: 16785960
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Only &lt;code&gt;c&lt;/code&gt; has a different id. All references now point to the object with the same &lt;code&gt;Hello World&lt;/code&gt; value. However, &lt;code&gt;c&lt;/code&gt; was not computed at compile-time, but rather at runtime. Even &lt;code&gt;d&lt;/code&gt;, which we generated by adding the &lt;code&gt;'d'&lt;/code&gt; character now points to the same object that &lt;code&gt;a&lt;/code&gt; and &lt;code&gt;b&lt;/code&gt; point to.&lt;/p&gt;
+&lt;h3 id="howstringsareinterned"&gt;How Strings Are Interned&lt;/h3&gt;
+&lt;p&gt;In Python, there are two ways strings can be interned based on programmer-interaction:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Implicit interning&lt;/li&gt;
+&lt;li&gt;Explicit interning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="implicitinterning"&gt;Implicit Interning&lt;/h4&gt;
+&lt;p&gt;Python automatically interns some strings at the moment of their creation. Whether or not a string is interned depends on several factors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;All empty strings and strings of length 1 are interned.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Up until version 3.7, Python used &lt;a rel="nofollow noopener" target="_blank" href="https://github.com/python/cpython/blob/0f21fe6155227d11dc02bd3ef3b061de4ecea445/Python/peephole.c"&gt;peephole optimization,&lt;/a&gt; and all strings longer than 20 characters were not interned. However, now it uses the &lt;a rel="nofollow noopener" target="_blank" href="https://github.com/python/cpython/blob/3.7/Python/ast_opt.c"&gt;AST&#160;optimizer&lt;/a&gt;, and (most) strings up to 4096 characters are interned.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Names of functions, class, variables, arguments, etc. are implicitly interned.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The keys of dictionaries used to hold module, class, or instance attributes are interned.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Strings are interned only at compile-time, this means that they will not be interned if their value can't be computed at compile-time.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;These strings will be interned for example:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code class="language-python"&gt;a = 'why'
+b = 'why' * 5
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;The following expression is computed at &lt;em&gt;runtime&lt;/em&gt; thus the string is not interned.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code class="language-python"&gt;b = &amp;quot;&amp;quot;.join(['w','h','y'])
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Strings having characters apart from ASCII are most likely not going to be interned.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you recall, we said that &lt;code&gt;'Hello Worl' + letter_d&lt;/code&gt; was computed at runtime, and therefore it will not be interned. Since there is no consistent standard on string interning, a good rule of thumb to use is the compile-time/runtime idea, where you can assume that a string will be interned if it can be computed at compile-time.&lt;/p&gt;
+&lt;h4 id="explicitinterning"&gt;Explicit Interning&lt;/h4&gt;
+&lt;p&gt;We often come across strings that do not lie under the conditions of implicit interning in Python, but there is a way to intern any string you want. There is a function in the &lt;code&gt;sys&lt;/code&gt; module called &lt;code&gt;intern(immutable_object)&lt;/code&gt;, this function tells Python to store the &lt;code&gt;immutable_object&lt;/code&gt; (string in our case) in the interned memory table.&lt;/p&gt;
+&lt;p&gt;You can intern any kind of string as follows:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-python"&gt;import sys
+c = sys.intern('Hello World'+'!')
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;We can see that this would work in our previous example:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-python"&gt;import sys
+
+letter_d = 'd'
+
+a = sys.intern('Hello World')
+b = sys.intern('Hello Worl' + letter_d)
+
+print(f&amp;quot;The ID of a: {id(a)}&amp;quot;)
+print(f&amp;quot;The ID of b: {id(b)}&amp;quot;)
+print(f&amp;quot;a is b? {a is b}&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Would give the output:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-plaintext"&gt;The ID of a: 26878464
+The ID of b: 26878464
+a is b? True
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now that we know how and which strings are interned in Python. One question remains - why was string interning introduced?&lt;/p&gt;
+&lt;h3 id="advantagesofstringinterning"&gt;Advantages of String Interning&lt;/h3&gt;
+&lt;p&gt;String interning has several advantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Saving Memory:&lt;/strong&gt; We never have to save two string objects in memory separately if they are the same. Every new variable with the same content just points to the reference in the interned table literal. If for some reason, you wanted to have a list containing every single word and its appearance in Jane Austen's &lt;em&gt;Pride and Prejudice&lt;/em&gt;, without explicit interning, you'd need 4.006.559 bytes, and with explicit interning of each word, you would need only 785.509 bytes of memory.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fast Comparisons:&lt;/strong&gt; The comparison of interned strings is much faster than non-interned strings which are useful when your program has lots of comparisons. This happens because in order to compare interned strings, you only need to compare whether their memory addresses are the same, instead of comparing the contents.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fast Dictionary Lookups:&lt;/strong&gt; If the lookup keys are interned, the comparison can be done by pointer comparisons instead of string compare, which works on the same principle as the previous point.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="disadvantagesofstringinterning"&gt;Disadvantages of String Interning&lt;/h3&gt;
+&lt;p&gt;However interning strings does have some drawbacks and things to consider before using:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Memory Cost:&lt;/strong&gt; In case your program has a large number of strings with different values and relatively fewer comparisons overall because the interned table itself consumes memory. Meaning that you want to intern strings if you have relatively few strings and a lot of comparisons between them.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time Cost:&lt;/strong&gt; The call to &lt;code&gt;intern()&lt;/code&gt; function is expensive as it has to manage the interned table.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-threaded Environments:&lt;/strong&gt; The interned memory (table) is a global resource in a multi-threaded environment whose synchronization needs to be modified. This check might only be needed when the interned table is accessed i.e. when a new string is created but it can be expensive.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="conclusion"&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;By using string interning, you ensure that only one object is created even if you define multiple strings with the same content. You should however keep in mind the balance between the advantages and disadvantages of string interning, and only use it when you think your program could benefit.&lt;/p&gt;
+&lt;p&gt;Always remember to add comments or documentation if you are using string interning so other team members know how to deal with strings in the program.&lt;/p&gt;
+&lt;p&gt;While the results may vary as per the implementation of your Python interpreter, as well as the environment you run your code in, you should definitely play around with &lt;code&gt;intern()&lt;/code&gt; function to make yourself comfortable with it. This concept can help you to the improve design and performance of your code. It might help you in your next job interview as well.&lt;/p&gt;
+&lt;!--kg-card-end: markdown--&gt;</description>
+	<pubDate>Fri, 11 Sep 2020 12:30:00 +0000</pubDate>
+</item>
+<item>
+	<title>Kushal Das: SecureDrop package build breakage due to setuptools</title>
+	<guid>https://kushaldas.in/posts/securedrop-package-build-breakage-due-to-setuptools.html</guid>
+	<link>https://kushaldas.in/posts/securedrop-package-build-breakage-due-to-setuptools.html</link>
+	<description>&lt;!--
+.. title: SecureDrop package build breakage due to setuptools
+.. slug: securedrop-package-build-breakage-due-to-setuptools
+.. date: 2020-09-11T17:59:43+05:30
+.. tags: Python, Packaging, News, SecureDrop
+.. link:
+.. description:
+.. type: text
+--&gt;
+&lt;p&gt;A few days ago, setuptools 50.0.0 release &lt;a href="https://github.com/pypa/setuptools/issues/2352"&gt;caused
+breakage&lt;/a&gt; to many projects.
+&lt;a href="https://securedrop.org"&gt;SecureDrop&lt;/a&gt; package builds &lt;a href="https://github.com/freedomofpress/securedrop/issues/5471"&gt;was also
+broken&lt;/a&gt;. We use
+&lt;a href="https://dh-virtualenv.readthedocs.io/en/1.2.1/"&gt;dh-virtualenv&lt;/a&gt; tool to build
+the packages. Initially, we tried to use the experimental build system from
+&lt;code&gt;dh-virtualenv&lt;/code&gt;. We could specify the version of the &lt;code&gt;setuptools&lt;/code&gt; to be
+installed in the virtualenv while creating it.&lt;/p&gt;
+&lt;p&gt;This approach worked for &lt;code&gt;Xenial&lt;/code&gt; builds. As we are working to have proper builds
+on &lt;code&gt;Focal&lt;/code&gt; (still work in progress),  &lt;a href="https://github.com/freedomofpress/securedrop/issues/5488"&gt;that was
+broken&lt;/a&gt; due to the
+above-mentioned change.&lt;/p&gt;
+&lt;p&gt;So, we again &lt;a href="https://github.com/freedomofpress/securedrop/pull/5484"&gt;tried&lt;/a&gt; to
+use Python's &lt;code&gt;venv&lt;/code&gt; module itself to create the virtual environment and use the
+wheels from the &lt;code&gt;/usr/share/python-wheels&lt;/code&gt; directory to build the virtual
+environment. Which works very nicely on &lt;code&gt;Xenial&lt;/code&gt;, but on &lt;code&gt;Focal&lt;/code&gt; the default
+&lt;code&gt;setuptools&lt;/code&gt; version is &lt;code&gt;44.0.0&lt;/code&gt;, which also
+&lt;a href="https://github.com/pypa/setuptools/issues/2029"&gt;failed&lt;/a&gt; to install the
+dependencies.&lt;/p&gt;
+&lt;p&gt;Now, we are actually getting the &lt;code&gt;setuptools 46.0.0&lt;/code&gt; wheel and replacing the
+build container's default &lt;code&gt;setuptools&lt;/code&gt; wheel. The team spent a lot of time in
+debugging and finding a proper fix for the package builds. Hopefully, we will
+not get a similar breakage on the same kind of dependency error soon (the
+actual package dependencies are pinned via hashes).&lt;/p&gt;</description>
+	<pubDate>Fri, 11 Sep 2020 12:29:43 +0000</pubDate>
+</item>
+<item>
+	<title>Real Python: The Real Python Podcast &#8211; Episode #26: 5 Years Podcasting Python with Michael Kennedy: Growth, GIL, Async, and More</title>
+	<guid>https://realpython.com/podcasts/rpp/26/</guid>
+	<link>https://realpython.com/podcasts/rpp/26/</link>
+	<description>&lt;p&gt;Why is Python pulling in so many new programmers? Maybe some of that growth is from Python being a full-spectrum language. This week on the show we have Michael Kennedy, the host of the podcast "Talk Python to Me". Michael reflects on five years of podcasting about Python, and many of the changes he has seen in the Python landscape.&lt;/p&gt;
+        &lt;hr /&gt;
+        &lt;p&gt;&lt;em&gt;[ Improve Your Python With &#128013; Python Tricks &#128140; &#8211; Get a short &amp;amp; sweet Python Trick delivered to your inbox every couple of days. &lt;a href="https://realpython.com/python-tricks/?utm_source=realpython&amp;utm_medium=rss&amp;utm_campaign=footer"&gt;&amp;gt;&amp;gt; Click here to learn more and see examples&lt;/a&gt; ]&lt;/em&gt;&lt;/p&gt;</description>
+	<pubDate>Fri, 11 Sep 2020 12:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Andrew Dalke: Similarity principle in legal cases</title>
+	<guid>http://www.dalkescientific.com/writings/diary/archive/2020/09/11/similarity_principle_in_legal_cases.html</guid>
+	<link>http://www.dalkescientific.com/writings/diary/archive/2020/09/11/similarity_principle_in_legal_cases.html</link>
+	<description>&lt;p&gt;
+
+Read enough cheminformatics papers and you'll eventually come across
+the a variation of the &lt;q&gt;similarity principle&lt;/q&gt; or &lt;q&gt;similar
+property principle&lt;/q&gt; or &lt;q&gt;molecular similarity principle&lt;/q&gt;. Here's
+a 2020 example from the JCIM paper &lt;q&gt;&lt;a href="https://pubs.acs.org/doi/full/10.1021/acs.jcim.9b01191"&gt;Assessing
+the Performance of Mixed Strategies To Combine Lipophilic Molecular
+Similarity and Docking in Virtual Screening&lt;/a&gt;&lt;/q&gt;:
+
+&lt;blockquote&gt;
+
+Under the framework of the similarity principle property,&lt;sup&gt;&lt;a href="https://www.wiley.com/en-us/Concepts+and+Applications+of+Molecular+Similarity-p-9780471621751"&gt;5&lt;/a&gt;&lt;/sup&gt;
+which assumes that similar compounds should have similar properties, a
+plethora of methods have been developed to disclose structure-activity
+relationships, derive pharmacophores to rationalize the biological
+activity, and perform similarity measurements in the search of novel
+chemical scaffolds.
+
+&lt;/blockquote&gt;
+
+and here's the only one in J. Cheminformatics, titled &lt;q&gt;&lt;a href="https://jcheminf.biomedcentral.com/articles/10.1186/1758-2946-1-14"&gt;Optimal
+assignment methods for ligand-based virtual screening&lt;/a&gt;&lt;/q&gt; by Jahn, Hinselmann, Fechner and Zell (2009):
+
+&lt;blockquote&gt;
+
+The underlying assumption of ligand-based approach is that similar
+structures have similar biological activity. Maggiora and Johnson [&lt;a href="https://www.wiley.com/en-us/Concepts+and+Applications+of+Molecular+Similarity-p-9780471621751"&gt;8&lt;/a&gt;]
+introduced the similarity-property principle that implies that the
+chemical similarity can be related to the biological activity of
+structures.
+
+&lt;/blockquote&gt;
+
+In both cases that citation is to Johnson and Maggiora's (ed.) seminal
+work &lt;a href="https://www.wiley.com/en-us/Concepts+and+Applications+of+Molecular+Similarity-p-9780471621751"&gt;Concepts
+and Applications of Molecular Similarity&lt;/a&gt;.
+
+&lt;/p&gt;&lt;p&gt;
+
+That book is clear that they are &lt;i&gt;not&lt;/i&gt; making new observations
+about the association between molecular similarity and property
+similarity. Indeed, the first sentence of the preface is
+&lt;q&gt;Applications that make use, either explicitly or implicitly, of the
+concept of molecular similarity in chemistry are numerous, and indeed
+lie at the heart of a significant body of chemical research.&lt;/q&gt;
+
+&lt;/p&gt;&lt;p&gt;
+
+The book is focused on the scientific applicability of molecular and
+chemical similarity (it distinguishes between the two), with an
+emphasis on the types of molecular similarity which can be automated,
+while &lt;q&gt;the &lt;q&gt;cognitive algorithms&lt;/q&gt; by which medicinal chemists
+perceive similarity are largely unknown.&lt;/q&gt; (as Maggiora, Vogt,
+Stumpfe, and Bajorath comment in &lt;q&gt;&lt;a href="https://pubs.acs.org/doi/10.1021/jm401411z"&gt;Molecular Similarity
+in Medicinal Chemistry&lt;/a&gt;&lt;/q&gt; (2014)).
+
+&lt;/p&gt;
+&lt;h2&gt;Legal citations of the similarity principle&lt;/h2&gt;
+&lt;p&gt;
+
+A point of my previous few essays was to add to the historical
+discussion in Johnson and Maggiora's book, with one essay on &lt;a href="http://www.dalkescientific.com/writings/diary/archive/2020/09/08/patents_and_molecular_similarity.html"&gt;patents&lt;/a&gt;
+and the other on &lt;a href="http://www.dalkescientific.com/writings/diary/archive/2020/09/08/drug_control_law_and_molecular_similarity.html"&gt;drug
+analogue laws&lt;/a&gt;. I'll end my series of legal quotes with a few
+citations using the similarity principle, drawn from US case law from
+before 1980, so well before Johnson and Maggiora. In the following,
+the bold emphasis is mine.
+
+&lt;/p&gt;
+&lt;h3&gt;in re Hoch&lt;/h3&gt;
+&lt;p&gt;
+
+It appears in the US the similarity principle is referred to as &lt;q&gt;in
+re Hoch&lt;/q&gt; because of the &lt;a href="https://law.justia.com/cases/federal/appellate-courts/F2/428/1341/172494/
+"&gt;Application of Paul E. Hoch, 428 F.2d 1341 (C.C.P.A. 1970)&lt;/a&gt;:
+
+&lt;blockquote&gt;
+
+Such actual differences in properties are required to overcome a prima
+facie case of obviousness because the prima facie case, at least to a
+major extent, is based on &lt;b&gt;the expectation that compounds which are
+very similar in structure will have similar properties&lt;/b&gt;.
+
+&lt;/blockquote&gt;
+
+&lt;/p&gt;
+&lt;h3&gt;References to in re Hoch&lt;/h3&gt;
+&lt;p&gt;
+
+This decision and summary is cited often in later judgments, as the
+following few examples show:
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.leagle.com/decision/1979909606f2d3031846 "&gt;Application of Payne&lt;/a&gt;, 606 F.2d 303, 203 USPQ 245 (CCPA 1979)&lt;br /&gt;
+
+&lt;blockquote&gt;
+
+An obviousness rejection based on similarity in chemical structure and
+function entails the motivation of one skilled in the art to make a
+claimed compound, in &lt;b&gt;the expectation that compounds similar in
+structure will have similar properties&lt;/b&gt;. In re Gyurik, 596 F.2d 1012,
+1018, 201 USPQ 552, 557 (CCPA 1979); See In re May, 574 F.2d 1082,
+1094, 197 USPQ 601, 611 (CCPA 1978); In re Hoch, 428 F.2d 1341, 1344,
+57
+
+&lt;/blockquote&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href="https://www.leagle.com/decision/19771020563f2d4571951 "&gt;Application of Wilder&lt;/a&gt;, 563 F.2d 457 (1977)
+
+&lt;blockquote&gt;
+
+Wilder's discovery of the absence of skin toxicity in the claimed
+compound does not end the inquiry, because &lt;b&gt;one who claims a compound,
+per se, which is structurally similar to a prior art compound must
+rebut the presumed expectation that the structurally similar compounds
+have similar properties&lt;/b&gt;. In re Hoch, supra.
+
+&lt;/blockquote&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href="https://www.leagle.com/decision/19781656574f2d108211462 "&gt;Application of May&lt;/a&gt;, 574 F.2d 1082 (1978)
+
+&lt;blockquote&gt;
+
+As alluded to by the court, the basis of the prima facie case of
+obviousness, at least to a major extent, is based on &lt;b&gt;the presumed
+expectation that compounds which are similar in structure will have
+similar properties&lt;/b&gt;.
+
+&lt;/blockquote&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;h2&gt;&lt;q&gt;The Papesch Obviousness Regime&lt;/q&gt;&lt;/h2&gt;
+&lt;p&gt;
+
+I found an essay titled &lt;q&gt;&lt;a href="https://37thoughts.files.wordpress.com/2010/03/wegner-cite-bites.pdf"&gt;Post-KSR
+Chemical Obviousness in Light of Pfizer v. Apotex&lt;/a&gt;&lt;/q&gt; by Harold
+C. Wegner, dated June 13, 2007. Its second paragraph is:
+
+&lt;blockquote&gt;
+
+The law of obviousness of a chemical compound evolved from late
+nineteenth century structural obviousness case law that became highly
+defined in the 1940's and was modified in the early 1960's to provide
+a balanced two part analysis: The Examiner has the initial burden to
+establish prima facie or &lt;q&gt;structural&lt;/q&gt; obviousness, but where this
+is established, it is up to the patent applicant to present rebuttal
+evidence demonstrating actual differences between the claimed compound
+and the prior art. See &amp;sect; II, The Papesch Obviousness Regime.
+
+&lt;/blockquote&gt;
+
+That section of the essay is:
+
+&lt;blockquote&gt;
+&lt;p&gt;
+
+After a generation of uncertainty and then several years of
+challenges, Papesch&lt;sup&gt;3&lt;/sup&gt; became the core foundation for modern
+chemical obviousness practice, seemingly untouched by KSR.
+
+&lt;/p&gt;&lt;p&gt;
+
+Under the Papesch regime, obviousness of a new chemical compound
+proceeds through two stages. First, is there a prior art compound
+sufficiently close in structure to the claimed compound to suggest
+that the claimed structure would have the same properties? If the
+answer is negative, then the inquiry is completed: There is no
+obviousness for such a compound. But, as is particularly the case in a
+mature field, there is a high degree of predictability of properties
+of a compound keyed to structure, such that the disclosure of a prior
+art compound suggests that the claimed compound can and should be
+synthesized to achieve like results. Here, the claimed compound is
+prima facie obvious based upon the concept of &lt;q&gt;structural
+obviousness&lt;/q&gt;. &amp;hellip;
+
+&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;/p&gt;
+&lt;h3&gt;Papesch&lt;/h3&gt;
+&lt;p&gt;
+
+Which leads us to the &lt;a href="https://law.justia.com/cases/federal/appellate-courts/F2/315/381/60097/"&gt;Application
+of Viktor Papesch&lt;/a&gt;, 315 F.2d 381 (C.C.P.A. 1963)
+
+&lt;blockquote&gt;
+&lt;p&gt;
+
+The examiner's statements about the existence of a family of other
+properties common to the claimed compounds and the compound of the
+prior art finds support in the record, however, only on the basis of
+assumptions in turn based on assumed &lt;q&gt;homology.&lt;/q&gt; In his answer, the
+examiner cited a new reference, Wertheim &lt;q&gt;Textbook of Organic
+Chemistry&lt;/q&gt; (2d Ed.), &lt;a href="https://archive.org/details/in.ernet.dli.2015.474767/page/n51/mode/2up"&gt;page
+37&lt;/a&gt; (1945). From it he quoted the following statement about members
+of &lt;q&gt;any one homologous series:&lt;/q&gt;
+
+&lt;blockquote&gt;
+"These compounds have similar chemical traits, because their
+structures are closely related; therefore we can learn the chemistry
+of the entire group with no more effort than would otherwise be
+required to study a single compound."
+&lt;/blockquote&gt;
+
+&lt;/p&gt;&lt;p&gt;
+
+&amp;hellip; Wertheim, at the point from which the above quotation was taken, was
+discussing the same &lt;q&gt;methane series of hydrocarbons&lt;/q&gt; as Fieser and
+Fieser. The examiner stopped his quotation just before the sentence
+reading, &lt;q&gt;Of course we may anticipate certain &lt;q&gt;exceptions&lt;/q&gt; to this
+general rule, but such exceptions will make very little trouble.&lt;/q&gt; We
+are not here dealing with the methane series or with the type of
+&lt;q&gt;homology&lt;/q&gt; which it illustrates.
+
+&lt;/p&gt;&lt;p&gt;
+
+We have had sufficient contact with &lt;q&gt;homology&lt;/q&gt; on this court to
+agree with the examiner that &lt;b&gt;such similarity in structure as exists
+here probably indicates similarity in some undisclosed properties&lt;/b&gt;;
+but we are past giving too much legal significance to the bare term
+&lt;q&gt;homolog,&lt;/q&gt; even where there is an admission of homology, as there
+appears to be here. The term is often used loosely. So far as we know,
+the assumed similarities referred to by the examiner are of little or
+no practical or commercial significance. Certainly he has pointed to
+none. On the other hand, the proven dissimilarity is a matter of
+pharmacological significance, on which the examiner would be quite
+willing to grant a patent if the invention were claimed as a process.
+As to the other properties, nothing in the record gives us any
+information, not even the Robins et al. reference.
+
+&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;/p&gt;</description>
+	<pubDate>Fri, 11 Sep 2020 12:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Python Software Foundation: Noah Alorwu Awarded the PSF Community Service Award for Q2 2020</title>
+	<guid>http://feedproxy.google.com/~r/PythonSoftwareFoundationNews/~3/4-1GEHINSMw/noah-alorwu-awarded-psf-community.html</guid>
+	<link>http://feedproxy.google.com/~r/PythonSoftwareFoundationNews/~3/4-1GEHINSMw/noah-alorwu-awarded-psf-community.html</link>
+	<description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class="separator"&gt;&lt;a href="https://1.bp.blogspot.com/-5GogetESnsA/X1tqgs46u2I/AAAAAAAAzXM/BddtovaxbwAjora2XrV7fS6GIXY8HY5GgCLcBGAsYHQ/s2048/DSC_9839.JPG"&gt;&lt;img border="0" height="331" src="https://1.bp.blogspot.com/-5GogetESnsA/X1tqgs46u2I/AAAAAAAAzXM/BddtovaxbwAjora2XrV7fS6GIXY8HY5GgCLcBGAsYHQ/w500-h331/DSC_9839.JPG" width="500" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;&lt;p&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;a href="https://twitter.com/PlasmaDray" target="_blank"&gt;Noah Alorwu&lt;/a&gt;, software developer and co-organizer of &lt;a href="https://africa.pycon.org/" target="_blank"&gt;PyCon Africa&lt;/a&gt;, has been awarded the Python Software Foundation 2020 Q2 Community Service Award.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;br /&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Noah is the CTO of &lt;a href="https://cradx.com/" target="_blank"&gt;Cradx&lt;/a&gt; and has been involved with the Python community since 2017.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;br /&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;RESOLVED, that the Python Software Foundation award the 2020 Q2 Community Service Award to Noah Alorwu for his contributions to the growth of Python Ghana community, being an executive member of PyCon Africa and also organizing Django Girls workshop to bridge the gender gaps in tech. &lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;In 2019, he played an active role in organizing the first PyCon Africa and was chair of the talk committee. &lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;Noah is also one of the founders of DjangoCon Africa, the upcoming inaugural conference for Django developers on the continent. He has spoken at several Python conferences including DjangoCon Europe. &lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;Noah is a consistent force for good, particularly in the African Python community.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;And as part of this PSF Community Service Award announcement, we interviewed Noah Alorwu to give us some insight into his work with the Python community in Ghana and Africa.&lt;/p&gt;&lt;p&gt;Featured also in this interview is Rosina Carr, a mentee of Noah, who talked about Noah's influence in her life.&lt;/p&gt;&lt;h3&gt;Origin Story&lt;/h3&gt;&lt;p&gt;&lt;b&gt;Can you tell us about your origin story? Like how you got into tech and your earliest involvement with the Python community?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;My journey in tech started at an early age.&lt;/p&gt;&lt;p&gt;At 7 years old, I visited my cousins nearby who were privileged to have a desktop computer. They played computer games and had fun as I watched them with keen interest. I asked myself how all the events were happening.&lt;/p&gt;&lt;p&gt;As I had no chance to feed my curisity, I have since been finding answers to the questions, to the extent that I had to open my mum's Cathode Ray TV to look for the people in the TV. An action I received some serious beatings for.&lt;/p&gt;&lt;p&gt;I love tech to the core that I have to use part of my school fees to purchase an internet modem while in Junior High school to access the internet. I am currently the CTO at &lt;a href="https://www.cradx.com/" target="_blank"&gt;Cradx&lt;/a&gt;&amp;nbsp;of which Python is one of our core stacks.&lt;/p&gt;&lt;p dir="ltr"&gt;I have been involved in the Python community since 2017. I have helped organize workshops for women, organize the first PyCon Ghana and PyCon Africa.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;br /&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;The love for the community is one of a kind.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;br /&gt;&lt;/p&gt;&lt;h3&gt;Community Involvement - the driving force&lt;/h3&gt;&lt;p&gt;&lt;b&gt;What drives/inspires you into doing all that you do for the Python community?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;My commitment to the Python community s influenced by two things:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;The community.&lt;/li&gt;&lt;li&gt;What drives me the most is that I can positively affect many who love to code but find it difficult. Many great developers aren't discovered yet because they live in underprivileged societies. I want to one day lead the crusade of getting them discovered.&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;b&gt;How has your involvement within the community helped your career?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Time management, the ability to work with diverse people, and collaborate on open source projects are some of the things the Python community has brought to my career.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;h3&gt;Getting more developers involved in the community&lt;/h3&gt;&lt;div&gt;&lt;b&gt;How do you think we can get more developers to be involved in the Python community in Africa?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Nurture the technical talents of the devs so they can be super competitive in the market (on a global front and even locally).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Another way is to host cross-collaboration programs with other tech communities, hubs, and the likes across Africa. But of course, it has to start locally before it's scaled to that level.&lt;br /&gt;&lt;br /&gt;For example, partnering with hubs to host sprints and the likes. This would create more visibility of the Python communities amongst developers.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Python community should connect developers to various parts of Africa, and also developers in the West with developers in Africa for cultural exchange and build support networks that would hopefully last throughout their professional lives.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A website can be created to celebrate or document the successes of devs in the community, not just awards.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Developers would surely be drawn to a community that values them and their work to the extent of providing them with a platform to showcase it.&lt;br /&gt;&lt;br /&gt;This exposure will be so helpful to the devs in that, they would get constructive criticism from even the perspectives of a non-techie (which would be helpful to whatever project it is they are working on).&lt;br /&gt;&lt;br /&gt;A lot of them would even learn how to 'explain' their products/projects.&lt;br /&gt;&lt;br /&gt;Above all, it would serve as a database for the Python community.&amp;nbsp; Think about it. Curating works from developers across Africa. That would be something else.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Impact Story&lt;/h3&gt;&lt;div&gt;Rosina Carr attended a Django girls event in October 2017, where Noah was a coach.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;She became a mentee and friend of Noah after the event.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Rosina shares some of the personal impact Noah has had on her life and the community.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Noah is a developer who is always willing to help others. He has organized some Django Girls events, PyCon Ghana and PyCon Africa. His friendly and interesting personality makes him very easy to talk to and work with. I quite remember the first Django Girls event&amp;nbsp; I went for in October 2017. It was fun and interactive.&lt;/div&gt;&lt;p&gt;The coach I was assigned to, couldn't make it, so Noah decided to coach my group alongisde his. And he coordinated it so well, that we did not feel left out.&lt;/p&gt;&lt;p&gt;Though we couldn't finish out websites at the event, he coached me after the event so I could get it done. He was always available when I needed him and oh, he is very patient.&lt;/p&gt;&lt;p&gt;This was just the beginning of Noah's mentorship. Noah continued to mentor me and encouraged me to coach other girls. Through Noah's help, I have coached some women at three Django Girls events. I am naturally reserved but he has helped me learn how to make friends at events like PyCon Ghana and PyCon Africa.&lt;/p&gt;&lt;p&gt;There are a lot of women out there that have been helped by Noah to develop a passion for programming, especially Python.&lt;/p&gt;&lt;h3&gt;Conclusion&lt;/h3&gt;&lt;div&gt;'The Python Software Foundation congratulates and celebrates the amazing work and contributions of &lt;a href="https://twitter.com/PlasmaDray" target="_blank"&gt;Noah Alorwu&lt;/a&gt; to the Ghana Python community and the larger Python Africa community.&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/PythonSoftwareFoundationNews?a=4-1GEHINSMw:GppWZoUXvP0:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/PythonSoftwareFoundationNews?d=yIl2AUoC8zA" border="0" /&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/PythonSoftwareFoundationNews?a=4-1GEHINSMw:GppWZoUXvP0:-BTjWOF_DHI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/PythonSoftwareFoundationNews?i=4-1GEHINSMw:GppWZoUXvP0:-BTjWOF_DHI" border="0" /&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/PythonSoftwareFoundationNews?a=4-1GEHINSMw:GppWZoUXvP0:F7zBnMyn0Lo"&gt;&lt;img src="http://feeds.feedburner.com/~ff/PythonSoftwareFoundationNews?i=4-1GEHINSMw:GppWZoUXvP0:F7zBnMyn0Lo" border="0" /&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/PythonSoftwareFoundationNews?a=4-1GEHINSMw:GppWZoUXvP0:V_sGLiPBpWU"&gt;&lt;img src="http://feeds.feedburner.com/~ff/PythonSoftwareFoundationNews?i=4-1GEHINSMw:GppWZoUXvP0:V_sGLiPBpWU" border="0" /&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/PythonSoftwareFoundationNews/~4/4-1GEHINSMw" height="1" width="1" alt="" /&gt;</description>
+	<pubDate>Fri, 11 Sep 2020 11:22:37 +0000</pubDate>
+</item>
+<item>
+	<title>Python Bytes: #198 There's a beaver in your database and Anna-Lena drops by</title>
+	<guid>https://pythonbytes.fm/episodes/show/198/there-s-a-beaver-in-your-database-and-anna-lena-drops-by</guid>
+	<link>https://pythonbytes.fm/episodes/show/198/there-s-a-beaver-in-your-database-and-anna-lena-drops-by</link>
+	<description>&amp;lt;p&amp;gt;Sponsored by us! Support our work through:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Our &amp;lt;a href="https://training.talkpython.fm/"&amp;gt;&amp;lt;strong&amp;gt;courses at Talk Python Training&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href="https://testandcode.com/"&amp;gt;Test &amp;amp;amp; Code&amp;lt;/a&amp;gt; Podcast&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;Special guest: &amp;lt;a href="http://alpopkes.com/"&amp;gt;Anna-Lena Popkes&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Brian #1:&amp;lt;/strong&amp;gt; &amp;lt;strong&amp;gt;Easily create Python scripts using argparse&amp;lt;/strong&amp;gt; &amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Back in the day, when I was writing most of my utility scripts in bash, I&#8217;d keep around an &amp;lt;code&amp;gt;example.bash&amp;lt;/code&amp;gt; file with different types of arguments and flags and control structures, etc to use as a template for new scripts.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Python has the same problem, or worse, if you use the built in argparse instead of something like click or typer. However, there are many times where you don&#8217;t want to have any external dependencies on a script, so built in argparse it is.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;But I definitely relate to this tweet: 
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&#8220;Every time I write a python script, I have to go back to an old script of mine to remember how to set up argparse. For some reason it just does not stick in my mind AT ALL.&#8221; - &amp;lt;a href="https://twitter.com/jgschraiber/status/1255199030738513920?s=20"&amp;gt;Joshua Schraiber&amp;lt;/a&amp;gt; &amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Well, then steps in &amp;lt;a href="https://twitter.com/kycl4rk"&amp;gt;Ken Youens-Clark&amp;lt;/a&amp;gt; with a little utility called &amp;lt;a href="https://github.com/kyclark/new.py"&amp;gt;new.py&amp;lt;/a&amp;gt;. It&#8217;s not &amp;lt;code&amp;gt;pip install&amp;lt;/code&amp;gt;-able, so you gotta clone it or fork it or copy it or whatever. But it&#8217;s cool and fairly simple to hack on yourself, and you&#8217;re going to want to make it your own anyway, so that&#8217;s fine.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;You do something like &amp;lt;code&amp;gt;python new.py foo.py&amp;lt;/code&amp;gt; and it creates an example starter &amp;lt;code&amp;gt;foo.py&amp;lt;/code&amp;gt; for you with:
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;a positional argument&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;a string argument&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;an integer argument&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;a file argument (which also checks to make sure the file is readable)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;a boolean flag&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Modify, copy, paste, delete, whatever you want to it now to make it the script you need super fast.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Also, add a &amp;lt;code&amp;gt;-t&amp;lt;/code&amp;gt;  flag to it, like this &amp;lt;code&amp;gt;python new.py -t foo.py&amp;lt;/code&amp;gt;, and it generates a test stub to test your new script.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Michael #2:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://dbeaver.io/"&amp;gt;&amp;lt;strong&amp;gt;DBeaver Database UI Tool&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;via exhuma &amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Remember I mentioned &amp;lt;a href="https://www.beekeeperstudio.io/"&amp;gt;BeeKeeper&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Free multi-platform database tool for developers, database administrators, analysts and all people who need to work with databases. &amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Apache Hive, Phoenix, Presto, etc.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Out-of-the box DBeaver supports more than 80 databases.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Having usability as its main goal, DBeaver offers:
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Carefully designed and implemented User Interface&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Support of Cloud datasources&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Support for Enterprise security standard&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Capability to work with various extensions for integration with Excel, Git and others.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Multiplatform support&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Nice UML table/entity diagrams&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Open source: &amp;lt;a href="https://github.com/dbeaver/dbeaver"&amp;gt;github.com/dbeaver/dbeaver&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Based on Eclipse&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Anna-Lena #3:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://github.com/pdbpp/pdbpp"&amp;gt;&amp;lt;strong&amp;gt;pdp++ debugger&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;I recently switched from using ipdb to pdb++&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Extension of the &amp;lt;a href="http://docs.python.org/library/pdb.html"&amp;gt;pdb&amp;lt;/a&amp;gt; module of the standard library&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Fully compatible with pdb but introduces some new features to improve debugging experience&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Can easily be installed with pip install pdbpp (&amp;lt;code&amp;gt;pdb++&amp;lt;/code&amp;gt; is not a valid package name)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Favorites: 1) sticky mode, 2) smart command parsing&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Sticky mode: &#8220;When in this mode, every time the current position changes, the screen is repainted and the whole function shown. Thus, when doing step-by-step execution you can easily follow the flow of the execution.&#8221;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Smart command parsing:
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;pdb tries to interpret entered commands as one of its builtin commands&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Inconvenient in some situations&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Example: printing value of a local variable which happens to have the same name as one of the commands (e.g. c could refer to a local variable but is interpreted as the command &#8216;continue&#8217;)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;pdb++ solution: in case of ambiguity / if a variable with the same name exists in the scope, it&#8217;s preferred&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;To execute the corresponding command, you can prefix it with &amp;lt;code&amp;gt;!!&amp;lt;/code&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Brian #4:&amp;lt;/strong&amp;gt; &amp;lt;strong&amp;gt;Markdown toys&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href="https://hackmd.io/"&amp;gt;HackMD.io&amp;lt;/a&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;I just found out about &amp;lt;a href="https://hackmd.io/"&amp;gt;HackMD&amp;lt;/a&amp;gt; at &amp;lt;a href="https://hackmd.io/"&amp;gt;hackmd.io&amp;lt;/a&amp;gt; and I&#8217;m quite impressed.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&#8220;&amp;lt;strong&amp;gt;HackMD&amp;lt;/strong&amp;gt; is a realtime, multi-platform collaborative markdown knowledge base. You can write notes with other people on your &amp;lt;strong&amp;gt;desktop&amp;lt;/strong&amp;gt;, &amp;lt;strong&amp;gt;tablet&amp;lt;/strong&amp;gt; or even on the &amp;lt;strong&amp;gt;phone&amp;lt;/strong&amp;gt;.&#8221;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Two panel markdown editor with some nice menus to help you remember how to do all the fancy stuff like 
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;inserting pictures&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;tables, with all the table options&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;quotes, references, TOC blocks, links, etc.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Great for people learning Markdown and for collaborating.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Even has fancy addons like 
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;math expressions&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;UML Diagrams&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;todo lists&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;And now, sync with github works, so you can edit files that are saved on github.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href="https://www.markdownguide.org/"&amp;gt;Markdown Guide&amp;lt;/a&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Just a really good, clean, &#8220;&#8230; free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.&#8221;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Includes
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Getting started page&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Cheat Sheet for super common elements&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Basic Syntax for more of the details&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Extended Syntax page&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Tools with links to lots of tools, including HackMD&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Michael #5:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://www.cyborgsecurity.com/python-malware-on-the-rise/"&amp;gt;&amp;lt;strong&amp;gt;Python Malware and obfuscation&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;via Connor Ferster&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Malware is starting to appear that has been written using the Python programming language. Traditionally, most malware has been written in compiled languages, such as C or C++.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Uses all the tools we promote for distributing apps: py2exe and py2app (which I used for &amp;lt;a href="https://github.com/mikeckennedy/urlify/"&amp;gt;urlify&amp;lt;/a&amp;gt;)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Specific examples of Python malware include &amp;lt;a href="https://unit42.paloaltonetworks.com/unit-42-technical-analysis-seaduke/"&amp;gt;SeaDuke&amp;lt;/a&amp;gt; that was used against the Democratic National Committee back in 2015 and 2016.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Lots of interesting tools
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;uncompyle6:&amp;lt;/strong&amp;gt; The successor to decompyle, uncompyle, and uncompyle2- &amp;lt;a href="https://github.com/rocky/python-uncompyle6/"&amp;gt;uncompyle6&amp;lt;/a&amp;gt; is a native Python cross-version decompiler and fragment decompiler. It can be used to translate Python bytecode back into Python source code.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;pyinstxtractor.py:&amp;lt;/strong&amp;gt; The &amp;lt;a href="https://github.com/extremecoders-re/pyinstxtractor"&amp;gt;PyInstaller Extractor&amp;lt;/a&amp;gt; can extract Python data from PyInstaller compiled executables.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Detecting Python Compiled Executables: Both PyInstaller and py2exe when compiled on Windows place unique strings within their binary executable.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Anna-Lena #6:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://www.attrs.org/en/stable/"&amp;gt;&amp;lt;strong&amp;gt;attrs package&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;What is &amp;lt;code&amp;gt;attrs&amp;lt;/code&amp;gt;? &#8594; Python package that simplifies writing classes (dunder methods are created automatically)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;How is this related to &amp;lt;a href="https://docs.python.org/3/library/dataclasses.html"&amp;gt;dataclasses&amp;lt;/a&amp;gt;?
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href="https://www.python.org/dev/peps/pep-0557"&amp;gt;&amp;lt;strong&amp;gt;PEP 557&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt; added Data Classes to &amp;lt;a href="https://docs.python.org/3.7/whatsnew/3.7.html#dataclasses"&amp;gt;Python 3.7&amp;lt;/a&amp;gt; that resemble &amp;lt;code&amp;gt;attrs&amp;lt;/code&amp;gt; in many ways.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;The PEP was inspired by &amp;lt;code&amp;gt;attrs&amp;lt;/code&amp;gt; and is the result of the wish to simplify writing classes without having to deal with the problems of  &amp;lt;code&amp;gt;namedtuple&amp;lt;/code&amp;gt;s&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Main difference: data classes are less powerful than attrs (certain features were sacrificed for the sake of simplicity)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Example: with attrs you can use &amp;lt;a href="https://www.attrs.org/en/stable/examples.html"&amp;gt;validators&amp;lt;/a&amp;gt; in your initializer that perform some kind of validation of the input arguments (e.g. checking that they have the correct type)&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;Extras:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Michael:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Was a guest on the &amp;lt;a href="https://www.youtube.com/watch?v=K85MLlncH2w&amp;amp;amp;feature=youtu.be"&amp;gt;Technado show last week&amp;lt;/a&amp;gt;.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Our Move from &amp;lt;a href="https://training.talkpython.fm/courses/move-from-excel-to-python-and-pandas"&amp;gt;Excel to Python and Pandas course&amp;lt;/a&amp;gt; is out!&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;Joke:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;New code quality metric:&amp;lt;/strong&amp;gt; &amp;lt;a href="https://www.osnews.com/story/19266/wtfsm/"&amp;gt;&amp;lt;strong&amp;gt;WTFs/minute&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
+	<pubDate>Fri, 11 Sep 2020 08:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>The Digital Cat: TDD in Python with pytest - Part 2</title>
+	<guid>https://www.thedigitalcatonline.com/blog/2020/09/11/tdd-in-python-with-pytest-part-2/</guid>
+	<link>https://www.thedigitalcatonline.com/blog/2020/09/11/tdd-in-python-with-pytest-part-2/</link>
+	<description>&lt;p&gt;This is the second post in the series "TDD in Python with pytest" where I develop a simple project following a strict TDD methodology. The posts come from my book &lt;a href="https://leanpub.com/clean-architectures-in-python"&gt;Clean Architectures in Python&lt;/a&gt; and have been reviewed to get rid of some bad naming choices of the version published in the book.&lt;/p&gt;
+&lt;p&gt;You can find the first post &lt;a href="https://www.thedigitalcatonline.com/blog/2020/09/10/tdd-in-python-with-pytest-part-1/"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="step-7-division"&gt;Step 7 - Division&lt;a class="headerlink" href="https://www.thedigitalcatonline.com/categories/python/atom.xml#step-7-division" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The requirements state that there shall be a division function, and that it has to return a float value. This is a simple condition to test, as it is sufficient to divide two numbers that do not give an integer result&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;test_div_two_numbers_float&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="n"&gt;calculator&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;SimpleCalculator&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+    &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;calculator&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;div&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;13&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+    &lt;span class="k"&gt;assert&lt;/span&gt; &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mf"&gt;6.5&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The test suite fails with the usual error that signals a missing method. The implementation of this function is very simple as the &lt;code&gt;/&lt;/code&gt; operator in Python performs a float division&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;SimpleCalculator&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+    &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="o"&gt;...&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;div&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Git tag:&lt;/strong&gt; &lt;a href="https://github.com/lgiordani/simple_calculator/tree/step-7-float-division"&gt;step-7-float-division&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you run the test suite again all the test should pass. There is a second requirement about this operation, however, that states that division by zero shall return &lt;code&gt;inf&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;I already mentioned in the previous post that this is not a good requirement, and please don't go around telling people that I told you to create function that return either floats of strings. This is a simple requirement that I will use to show you how to deal with exceptions.&lt;/p&gt;
+&lt;p&gt;The test that comes from the requirement is simple&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;test_div_by_zero_returns_inf&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="n"&gt;calculator&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;SimpleCalculator&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+    &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;calculator&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;div&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+    &lt;span class="k"&gt;assert&lt;/span&gt; &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="nb"&gt;float&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'inf'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;And the test suite fails now with this message&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;__________________________ test_div_by_zero_returns_inf ___________________________
+
+    def test_div_by_zero_returns_inf():
+        calculator = SimpleCalculator()
+
+&amp;gt;       result = calculator.div(5, 0)
+
+tests/test_main.py:70:  
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = &amp;lt;simple_calculator.main.SimpleCalculator object at 0x7f0b0b733990&amp;gt;, a = 5, b = 0
+
+    def div(self, a, b):
+&amp;gt;       return a / b
+E       ZeroDivisionError: division by zero
+
+simple_calculator/main.py:17: ZeroDivisionError
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Note that when an exception happens in the code and not in the test, the pytest output changes slightly. The first part of the message shows where the test fails, but then there is a second part that shows the internal code that raised the exception and provides information about the value of local variables on the first line (&lt;code&gt;self = &amp;lt;simple_calculator.main.SimpleCalculator object at 0x7f0b0b733990&amp;gt;, a = 5, b = 0&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;We might implement two different solutions to satisfy this requirement and its test. The first one is to prevent &lt;code&gt;b&lt;/code&gt; to be 0&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;div&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nb"&gt;float&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'inf'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+        &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;and the second one is to intercept the exception with a &lt;code&gt;try/except&lt;/code&gt; block&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;div&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="k"&gt;try&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;
+        &lt;span class="k"&gt;except&lt;/span&gt; &lt;span class="ne"&gt;ZeroDivisionError&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nb"&gt;float&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'inf'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Both solutions make the test suite pass, so both are correct. I leave to you the decision about which is the best one, syntactically speaking.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Git tag:&lt;/strong&gt; &lt;a href="https://github.com/lgiordani/simple_calculator/tree/step-7-division-by-zero"&gt;step-7-division-by-zero&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="step-8-testing-exceptions"&gt;Step 8 - Testing exceptions&lt;a class="headerlink" href="https://www.thedigitalcatonline.com/categories/python/atom.xml#step-8-testing-exceptions" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;A further requirement is that multiplication by zero must raise a &lt;code&gt;ValueError&lt;/code&gt; exception. This means that we need a way to test if our code raises an exception, which is the opposite of what we did until now. In the previous tests, the condition to pass was that there was no exception in the code, while in this test the condition will be that an exception has been raised.&lt;/p&gt;
+&lt;p&gt;Again, this is a requirement I made up just for the sake of showing you how do deal with exceptions, so if you think this is a silly behaviour for a multiplication function you are probably right.&lt;/p&gt;
+&lt;p&gt;Pytest provides a context manager named &lt;code&gt;raises&lt;/code&gt; that runs the code contained in it and passes only if the given exception is produced by that code.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;pytest&lt;/span&gt;
+
+&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="o"&gt;...&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+
+&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;test_mul_by_zero_raises_exception&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="n"&gt;calculator&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;SimpleCalculator&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+    &lt;span class="k"&gt;with&lt;/span&gt; &lt;span class="n"&gt;pytest&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;raises&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="ne"&gt;ValueError&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="n"&gt;calculator&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;mul&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;In this case, thus, pytest runs the line &lt;code&gt;calculator.mul(3, 0)&lt;/code&gt;. If the method  doesn't raise the &lt;code&gt;ValueError&lt;/code&gt; exception the test will fail. Indeed, if you run the test suite now, you will get the following failure&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;________________________ test_mul_by_zero_raises_exception ________________________
+
+    def test_mul_by_zero_raises_exception():
+        calculator = SimpleCalculator()
+
+        with pytest.raises(ValueError):
+&amp;gt;           calculator.mul(3, 0)
+E           Failed: DID NOT RAISE &amp;lt;class 'ValueError'&amp;gt;
+
+tests/test_main.py:81: Failed
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;which signals that the code didn't raise the expected exception.&lt;/p&gt;
+&lt;p&gt;The code that makes the test pass needs to test if one of the inputs of the function &lt;code&gt;mul&lt;/code&gt; is 0. This can be done with the help of the built-in function &lt;code&gt;all&lt;/code&gt;, which accepts an iterable and returns &lt;code&gt;True&lt;/code&gt; only if all the values contained in it are &lt;code&gt;True&lt;/code&gt;. Since in Python the value &lt;code&gt;0&lt;/code&gt; is not true, we may write&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;mul&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;args&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="nb"&gt;all&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;args&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+            &lt;span class="k"&gt;raise&lt;/span&gt; &lt;span class="ne"&gt;ValueError&lt;/span&gt;
+        &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;reduce&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="k"&gt;lambda&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;y&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;y&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;args&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;and make the test suite pass. The condition checks that there are no false values in the &lt;code&gt;args&lt;/code&gt; tuple, that is there are no zeros.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Git tag:&lt;/strong&gt; &lt;a href="https://github.com/lgiordani/simple_calculator/tree/step-8-multiply-by-zero"&gt;step-8-multiply-by-zero&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="step-9-a-more-complex-set-of-requirements"&gt;Step 9 - A more complex set of requirements&lt;a class="headerlink" href="https://www.thedigitalcatonline.com/categories/python/atom.xml#step-9-a-more-complex-set-of-requirements" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Until now the requirements were pretty simple, and it was wasy to map each of them directly into tests. It's time to try to tackle a more complex problem. The remaining requirements say that the class has to provide a function to compute the average of an iterable, and that this function shall accept two optional upper and lower thresholds to remove outliers.&lt;/p&gt;
+&lt;p&gt;Let's break these two requirements into a set of simpler ones&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The function accepts an iterable and computes the average, i.e. &lt;code&gt;avg([2, 5, 12, 98]) == 29.25&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;The function accepts an optional upper threshold. It must remove all the values that are greater than the threshold before computing the average, i.e. &lt;code&gt;avg([2, 5, 12, 98], ut=90) == avg([2, 5, 12])&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;The function accepts an optional lower threshold. It must remove all the values that are less then the threshold before computing the average, i.e. &lt;code&gt;avg([2, 5, 12, 98], lt=10) == avg([12, 98])&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;The upper threshold is not included in the comparison, i.e. &lt;code&gt;avg([2, 5, 12, 98], ut=98) == avg([2, 5, 12, 98])&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;The lower threshold is not included in the comparison, i.e. &lt;code&gt;avg([2, 5, 12, 98], lt=5) == avg([5, 12, 98])&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;The function works with an empty list, returning &lt;code&gt;0&lt;/code&gt;, i.e. &lt;code&gt;avg([]) == 0&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;The function works if the list is empty after outlier removal, i.e. &lt;code&gt;avg([12, 98], lt=15, ut=90) == 0&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;The function outlier removal works if the list is empty, i.e. &lt;code&gt;avg([], lt=15, ut=90) == 0&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;As you can see a requirement can produce multiple tests. Some of these are clearly expressed by the requirement (numbers 1, 2, 3), some of these are choices that we make (numbers 4, 5, 6) and can be discussed, some are boundary cases that we have to discover thinking about the problem (numbers 6, 7, 8).&lt;/p&gt;
+&lt;p&gt;There is a fourth category of tests, which are the ones that come from bugs that you discover. We will discuss about those later in this chapter.&lt;/p&gt;
+&lt;p&gt;Now, if you followed the posts coding along it is time to try to tackle a problem on your own. Why don't you try to go on and implement these features? Each of the eight requirements can be directly mapped into a test, and you know how to write tests and code that passes them. The next steps show my personal solution, which is just one of the possible ones, so you can compare what you did with what I came up with to solve the tests.&lt;/p&gt;
+&lt;h3 id="step-91-average-of-an-iterable"&gt;Step 9.1 - Average of an iterable&lt;a class="headerlink" href="https://www.thedigitalcatonline.com/categories/python/atom.xml#step-91-average-of-an-iterable" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Let's start adding a test for requirement number 1&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;test_avg_correct_average&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="n"&gt;calculator&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;SimpleCalculator&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+    &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;calculator&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;avg&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;12&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;98&lt;/span&gt;&lt;span class="p"&gt;])&lt;/span&gt;
+
+    &lt;span class="k"&gt;assert&lt;/span&gt; &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mf"&gt;29.25&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;We feed the function &lt;code&gt;avg&lt;/code&gt; a list of generic numbers, which average we calculated with an external tool. The first run of the test suite fails with the usual complaint about a missing function, and we can make the test pass with a simple use of &lt;code&gt;sum&lt;/code&gt; and &lt;code&gt;len&lt;/code&gt;, as both built-in functions work on iterables&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;SimpleCalculator&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+    &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="o"&gt;...&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;avg&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nb"&gt;sum&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nb"&gt;len&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Here, &lt;code&gt;it&lt;/code&gt; stands for iterable, as this function works with anything that supports the loop protocol.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Git tag:&lt;/strong&gt; &lt;a href="https://github.com/lgiordani/simple_calculator/tree/step-9-1-average-of-an-iterable"&gt;step-9-1-average-of-an-iterable&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="step-92-upper-threshold"&gt;Step 9.2 - Upper threshold&lt;a class="headerlink" href="https://www.thedigitalcatonline.com/categories/python/atom.xml#step-92-upper-threshold" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The second requirement mentions an upper threshold, but we are free with regards to the API, i.e. the requirement doesn't specify how the threshold is supposed to be specified or named. I decided to call the upper threshold parameter &lt;code&gt;ut&lt;/code&gt;, so the test becomes&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;test_avg_removes_upper_outliers&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="n"&gt;calculator&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;SimpleCalculator&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+    &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;calculator&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;avg&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;12&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;98&lt;/span&gt;&lt;span class="p"&gt;],&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;90&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+    &lt;span class="k"&gt;assert&lt;/span&gt; &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="n"&gt;pytest&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;approx&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;6.333333&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;As you can see the &lt;code&gt;ut=90&lt;/code&gt; parameter is supposed to remove the element &lt;code&gt;98&lt;/code&gt; from the list and then compute the average of the remaining elements. Since the result has an infinite number of digits I used the function &lt;code&gt;pytest.approx&lt;/code&gt; to check the result.&lt;/p&gt;
+&lt;p&gt;The test suite fails because the function &lt;code&gt;avg&lt;/code&gt; doesn't accept the parameter &lt;code&gt;ut&lt;/code&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;_________________________ test_avg_removes_upper_outliers _________________________
+
+    def test_avg_removes_upper_outliers():
+        calculator = SimpleCalculator()
+
+&amp;gt;       result = calculator.avg([2, 5, 12, 98], ut=90)
+E       TypeError: avg() got an unexpected keyword argument 'ut'
+
+tests/test_main.py:95: TypeError
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;There are two problems now that we have to solve, as it happened for the second test we wrote in this project. The new &lt;code&gt;ut&lt;/code&gt; argument needs a default value, so we have to manage that case, and then we have to make the upper threshold work. My solution is&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;avg&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="kc"&gt;None&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="n"&gt;ut&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;max&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+        &lt;span class="n"&gt;_it&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;=&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+
+        &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nb"&gt;sum&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;_it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nb"&gt;len&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;_it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The idea here is that &lt;code&gt;ut&lt;/code&gt; is used to filter the iterable keeping all the elements that are less than or equal to the threshold. This means that the default value for the threshold has to be neutral with regards to this filtering operation. Using the maximum value of the iterable makes the whole algorithm work in every case, while for example using a big fixed value like &lt;code&gt;9999&lt;/code&gt; would introduce a bug, as one of the elements of the iterable might be bigger than that value.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Git tag:&lt;/strong&gt; &lt;a href="https://github.com/lgiordani/simple_calculator/tree/step-9-2-upper-threshold"&gt;step-9-2-upper-threshold&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="step-93-lower-threshold"&gt;Step 9.3 - Lower threshold&lt;a class="headerlink" href="https://www.thedigitalcatonline.com/categories/python/atom.xml#step-93-lower-threshold" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The lower threshold is the mirror of the upper threshold, so it doesn't require many explanations. The test is&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;test_avg_removes_lower_outliers&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="n"&gt;calculator&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;SimpleCalculator&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+    &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;calculator&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;avg&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;12&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;98&lt;/span&gt;&lt;span class="p"&gt;],&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+    &lt;span class="k"&gt;assert&lt;/span&gt; &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="n"&gt;pytest&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;approx&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;55&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;and the code of the function &lt;code&gt;avg&lt;/code&gt; now becomes&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;avg&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="kc"&gt;None&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="kc"&gt;None&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="n"&gt;lt&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;min&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="n"&gt;ut&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;max&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+        &lt;span class="n"&gt;_it&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;&amp;gt;=&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;=&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+
+        &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nb"&gt;sum&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;_it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nb"&gt;len&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;_it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Git tag:&lt;/strong&gt; &lt;a href="https://github.com/lgiordani/simple_calculator/tree/step-9-3-lower-threshold"&gt;step-9-3-lower-threshold&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="step-94-and-95-boundary-inclusion"&gt;Step 9.4 and 9.5 - Boundary inclusion&lt;a class="headerlink" href="https://www.thedigitalcatonline.com/categories/python/atom.xml#step-94-and-95-boundary-inclusion" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As you can see from the code of the function &lt;code&gt;avg&lt;/code&gt;, the upper and lower threshold are included in the comparison, so we might consider the requirements as already satisfied. TDD, however, pushes you to write a test for each requirement (as we saw it's not unusual to actually have multiple tests per requirements), and this is what we are going to do. &lt;/p&gt;
+&lt;p&gt;The reason behind this is that you might get the expected behaviour for free, like in this case, because some other code that you wrote to pass a different test provides that feature as a side effect. You don't know, however what will happen to that code in the future, so if you don't have tests that show that all your requirements are satisfied you might lose features without knowing it.&lt;/p&gt;
+&lt;p&gt;The test for the fourth requirement is&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;test_avg_uppper_threshold_is_included&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="n"&gt;calculator&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;SimpleCalculator&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+    &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;calculator&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;avg&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;12&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;98&lt;/span&gt;&lt;span class="p"&gt;],&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;98&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+    &lt;span class="k"&gt;assert&lt;/span&gt; &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mf"&gt;29.25&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Git tag:&lt;/strong&gt; &lt;a href="https://github.com/lgiordani/simple_calculator/tree/step-9-4-upper-threshold-is-included"&gt;step-9-4-upper-threshold-is-included&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;while the test for the fifth one is&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;test_avg_lower_threshold_is_included&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="n"&gt;calculator&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;SimpleCalculator&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+    &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;calculator&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;avg&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;12&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;98&lt;/span&gt;&lt;span class="p"&gt;],&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+    &lt;span class="k"&gt;assert&lt;/span&gt; &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mf"&gt;29.25&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Git tag:&lt;/strong&gt; &lt;a href="https://github.com/lgiordani/simple_calculator/tree/step-9-5-lower-threshold-is-included"&gt;step-9-5-lower-threshold-is-included&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And, as expected, both pass without any change in the code. Do you remember rule number 5? You should ask yourself why the tests don't fail. In this case we reasoned about that before, so we can accept that the new tests don't require any code change to pass.&lt;/p&gt;
+&lt;h3 id="step-96-empty-list"&gt;Step 9.6 - Empty list&lt;a class="headerlink" href="https://www.thedigitalcatonline.com/categories/python/atom.xml#step-96-empty-list" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Requirement number 6 is something that wasn't clearly specified in the project description so we decided to return 0 as the average of an empty list. You are free to change the requirement and decide to raise an exception, for example.&lt;/p&gt;
+&lt;p&gt;The test that implements this requirement is&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;test_avg_empty_list&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="n"&gt;calculator&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;SimpleCalculator&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+    &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;calculator&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;avg&lt;/span&gt;&lt;span class="p"&gt;([])&lt;/span&gt;
+
+    &lt;span class="k"&gt;assert&lt;/span&gt; &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;and the test suite fails with the following error&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;_______________________________ test_avg_empty_list _______________________________
+
+    def test_avg_empty_list():
+        calculator = SimpleCalculator()
+
+&amp;gt;       result = calculator.avg([])
+
+tests/test_main.py:127: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = &amp;lt;simple_calculator.main.SimpleCalculator object at 0x7feeb7098a10&amp;gt;, it = [], lt = None, ut = None
+
+    def avg(self, it, lt=None, ut=None):
+        if not lt:
+&amp;gt;           lt = min(it)
+E           ValueError: min() arg is an empty sequence
+
+simple_calculator/main.py:26: ValueError
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The function &lt;code&gt;min&lt;/code&gt; that we used to compute the default lower threshold doesn't work with an empty list, so the code raises an exception. The simplest solution is to check for the length of the iterable before computing the default thresholds&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;avg&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="kc"&gt;None&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="kc"&gt;None&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="nb"&gt;len&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+            &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;
+
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="n"&gt;lt&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;min&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="n"&gt;ut&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;max&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+        &lt;span class="n"&gt;_it&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;&amp;gt;=&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;=&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+
+        &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nb"&gt;sum&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;_it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nb"&gt;len&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;_it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Git tag:&lt;/strong&gt; &lt;a href="https://github.com/lgiordani/simple_calculator/tree/step-9-6-empty-list"&gt;step-9-6-empty-list&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As you can see the function &lt;code&gt;avg&lt;/code&gt; is already pretty rich, but at the same time it is well structured and understandable. This obviously happens because the example is trivial, but cleaner code is definitely among the benefits of TDD.&lt;/p&gt;
+&lt;h3 id="step-97-empty-list-after-applying-the-thresholds"&gt;Step 9.7 - Empty list after applying the thresholds&lt;a class="headerlink" href="https://www.thedigitalcatonline.com/categories/python/atom.xml#step-97-empty-list-after-applying-the-thresholds" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The next requirement deals with the case in which the outlier removal process empties the list. The test is the following&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;test_avg_manages_empty_list_after_outlier_removal&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="n"&gt;calculator&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;SimpleCalculator&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+    &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;calculator&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;avg&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="mi"&gt;12&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;98&lt;/span&gt;&lt;span class="p"&gt;],&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;15&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;90&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+    &lt;span class="k"&gt;assert&lt;/span&gt; &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;and the test suite fails with a &lt;code&gt;ZeroDivisionError&lt;/code&gt;, because the length of the iterable is now 0.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;________________ test_avg_manages_empty_list_after_outlier_removal ________________
+
+    def test_avg_manages_empty_list_after_outlier_removal():
+        calculator = SimpleCalculator()
+
+&amp;gt;       result = calculator.avg([12, 98], lt=15, ut=90)
+
+tests/test_main.py:135:
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = &amp;lt;simple_calculator.main.SimpleCalculator object at 0x7f9e60c3ba90&amp;gt;, it = [12, 98], lt = 15, ut = 90
+
+    def avg(self, it, lt=None, ut=None):
+        if not len(it):
+            return 0
+
+        if not lt:
+            lt = min(it)
+
+        if not ut:
+            ut = max(it)
+
+        _it = [x for x in it if x &amp;gt;= lt and x &amp;lt;= ut]
+
+&amp;gt;       return sum(_it)/len(_it)
+E       ZeroDivisionError: division by zero
+
+simple_calculator/main.py:36: ZeroDivisionError
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The easiest solution is to introduce a new check on the length of the iterable&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;avg&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="kc"&gt;None&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="kc"&gt;None&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="nb"&gt;len&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+            &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;
+
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="n"&gt;lt&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;min&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="n"&gt;ut&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;max&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+        &lt;span class="n"&gt;_it&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;&amp;gt;=&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;=&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="nb"&gt;len&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;_it&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+            &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;
+
+        &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nb"&gt;sum&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;_it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nb"&gt;len&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;_it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;And this code makes the test suite pass. As I stated before, code that makes the tests pass is considered correct, but you are always allowed to improve it. In this case I don't really like the repetition of the length check, so I might try to refactor the function to get a cleaner solution. Since I have all the tests that show that the requirements are satisfied, I am free to try to change the code of the function.&lt;/p&gt;
+&lt;p&gt;After some attempts I found this solution&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;avg&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="kc"&gt;None&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="kc"&gt;None&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="n"&gt;_it&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;[:]&lt;/span&gt;
+
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="n"&gt;_it&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;_it&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;&amp;gt;=&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="n"&gt;_it&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;_it&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;=&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="nb"&gt;len&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;_it&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+            &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;
+
+        &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nb"&gt;sum&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;_it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nb"&gt;len&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;_it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;which looks reasonably clean, and makes the whole test suite pass.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Git tag:&lt;/strong&gt; &lt;a href="https://github.com/lgiordani/simple_calculator/tree/step-9-7-empty-list-after-thresholds"&gt;step-9-7-empty-list-after-thresholds&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="step-98-empty-list-before-applying-the-thresholds"&gt;Step 9.8 - Empty list before applying the thresholds&lt;a class="headerlink" href="https://www.thedigitalcatonline.com/categories/python/atom.xml#step-98-empty-list-before-applying-the-thresholds" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The last requirement checks another boundary case, which happens when the list is empty and we specify one of or both the thresholds. This test will check that the outlier removal code doesn't assume the list contains elements.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;test_avg_manages_empty_list_after_outlier_removal&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="n"&gt;calculator&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;SimpleCalculator&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+    &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;calculator&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;avg&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="mi"&gt;12&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;98&lt;/span&gt;&lt;span class="p"&gt;],&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;15&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;90&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+    &lt;span class="k"&gt;assert&lt;/span&gt; &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;This test doesn't fail. So, according to the TDD methodology, we should provide a reason why this happens and decide if we want to keep the test. The reason is because the two list comprehensions used to filter the elements work perfectly with empty lists. As for the test, it comes directly from a corner case, and it checks a behaviour which is not already covered by other tests. This makes me decide to keep the test.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Git tag:&lt;/strong&gt; &lt;a href="https://github.com/lgiordani/simple_calculator/tree/step-9-8-empty-list-before-thresholds"&gt;step-9-8-empty-list-before-thresholds&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="step-99-zero-as-lowerupper-threshold"&gt;Step 9.9 - Zero as lower/upper threshold&lt;a class="headerlink" href="https://www.thedigitalcatonline.com/categories/python/atom.xml#step-99-zero-as-lowerupper-threshold" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This is perhaps the most important step of the whole chapter, for two reasons.&lt;/p&gt;
+&lt;p&gt;First of all, the test added in this step was added by two readers of my book about clean architectures (&lt;a href="https://github.com/faustgertz"&gt;Faust Gertz&lt;/a&gt; and &lt;a href="https://github.com/IrishPrime"&gt;Michael O'Neill&lt;/a&gt;), and this shows a real TDD workflow. After you published you package (or your book, in this case) someone notices a wrong behaviour in some use case. This might be a big flaw or a tiny corner case, but in any case they can come up with a test that exposes the bug, and maybe even with a patch to the code, but the most important part is the test.&lt;/p&gt;
+&lt;p&gt;Whoever discovers the bug has a clear way to show it, and you, as an author/maintainter/developer can add that test to your suite and work on the code until that passes. The rest of the test suite will block any change in the code that disrupts the behaviour you already tested. As I already stressed multiple times, we could do the same without TDD, but if we need to change a substantial amount of code there is nothing like a test suite that can guarantee we are not re-introducing bugs (also called regressions).&lt;/p&gt;
+&lt;p&gt;Second, this step shows an important part of the TDD workflow: checking corner cases. In general you should pay a lot of attention to the boundaries of a domain, and test the behaviour of the code in those cases.&lt;/p&gt;
+&lt;p&gt;This test shows that the code doesn't manage zero-valued lower thresholds correctly&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;test_avg_manages_zero_value_lower_outlier&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="n"&gt;calculator&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;SimpleCalculator&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+    &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;calculator&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;avg&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;],&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+    &lt;span class="k"&gt;assert&lt;/span&gt; &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mf"&gt;0.5&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The reason is that the function &lt;code&gt;avg&lt;/code&gt; contains a check like &lt;code&gt;if lt:&lt;/code&gt;, which fails when &lt;code&gt;lt&lt;/code&gt; is 0, as that is a false value. The check should be &lt;code&gt;if lt is not None:&lt;/code&gt;, so that part of the function &lt;code&gt;avg&lt;/code&gt; becomes&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt; &lt;span class="ow"&gt;is&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="kc"&gt;None&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="n"&gt;_it&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;_it&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;&amp;gt;=&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;It is immediately clear that the upper threshold has the same issue, so the two tests I added are&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;test_avg_manages_zero_value_lower_outlier&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="n"&gt;calculator&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;SimpleCalculator&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+    &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;calculator&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;avg&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;],&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+    &lt;span class="k"&gt;assert&lt;/span&gt; &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mf"&gt;0.5&lt;/span&gt;
+
+
+&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;test_avg_manages_zero_value_upper_outlier&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="n"&gt;calculator&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;SimpleCalculator&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+    &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;calculator&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;avg&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;],&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+    &lt;span class="k"&gt;assert&lt;/span&gt; &lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mf"&gt;0.5&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;and the final version of &lt;code&gt;avg&lt;/code&gt; is&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;avg&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="kc"&gt;None&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="kc"&gt;None&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="n"&gt;_it&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;[:]&lt;/span&gt;
+
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt; &lt;span class="ow"&gt;is&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="kc"&gt;None&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="n"&gt;_it&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;_it&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;&amp;gt;=&lt;/span&gt; &lt;span class="n"&gt;lt&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt; &lt;span class="ow"&gt;is&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="kc"&gt;None&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+            &lt;span class="n"&gt;_it&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;_it&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;=&lt;/span&gt; &lt;span class="n"&gt;ut&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="nb"&gt;len&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;_it&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+            &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;
+
+        &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nb"&gt;sum&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;_it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nb"&gt;len&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;_it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Git tag:&lt;/strong&gt; &lt;a href="https://github.com/lgiordani/simple_calculator/tree/step-9-9-zero-as-lower-upper-threshold"&gt;step-9-9-zero-as-lower-upper-threshold&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="recap-of-the-tdd-rules"&gt;Recap of the TDD rules&lt;a class="headerlink" href="https://www.thedigitalcatonline.com/categories/python/atom.xml#recap-of-the-tdd-rules" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Through this very simple example we learned 6 important rules of the TDD methodology. Let us review them, now that we have some experience that can make the words meaningful&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Test first, code later&lt;/li&gt;
+&lt;li&gt;Add the bare minimum amount of code you need to pass the tests&lt;/li&gt;
+&lt;li&gt;You shouldn't have more than one failing test at a time&lt;/li&gt;
+&lt;li&gt;Write code that passes the test. Then refactor it.&lt;/li&gt;
+&lt;li&gt;A test should fail the first time you run it. If it doesn't ask yourself why you are adding it.&lt;/li&gt;
+&lt;li&gt;Never refactor without tests.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="how-many-assertions"&gt;How many assertions?&lt;a class="headerlink" href="https://www.thedigitalcatonline.com/categories/python/atom.xml#how-many-assertions" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I am frequently asked "How many assertions do you put in a test?", and I consider this question important enough to discuss it in a dedicated section. To answer this question I want to briefly go back to the nature of TDD and the role of the test suite that we run.&lt;/p&gt;
+&lt;p&gt;The whole point of automated tests is to run through a set of checkpoints that can quickly reveal that there is a problem in a specific area. Mind the words "quickly" and "specific". When I run the test suite and an error occurs I'd like to be able to understand as fast as possible where the problem lies. This doesn't (always) mean that the problem will have a quick resolution, but at least I can be immediately aware of which part of the system is misbehaving.&lt;/p&gt;
+&lt;p&gt;On the other hand, we don't want to have too many test for the same condition, on the contrary we want to avoid testing the same condition more than once as tests have to be maintained. A test suite that is too fine-grained might result in too many tests failing because of the same problem in the code, which might be daunting and not very informative.&lt;/p&gt;
+&lt;p&gt;My advice is to group together assertions that can be executed after running the same setup, if they test the same process. For example, you might consider the two functions &lt;code&gt;add&lt;/code&gt; and &lt;code&gt;sub&lt;/code&gt; that we tested in this chapter. They require the same setup, which is to instantiate the class &lt;code&gt;SimpleCalculator&lt;/code&gt; (a setup that they share with many other tests), but they are actually testing two different processes. A good sign of this is that you should rename the test to &lt;code&gt;test_add_or_sub&lt;/code&gt;, and a failure in this test would require a further investigation in the test output to check which method of the class is failing.&lt;/p&gt;
+&lt;p&gt;If you have to test that a method returns positive even numbers, instead, you will have consider running the method and then writing two assertions, one that checks that the number is positive, and one that checks it is even. This makes sense, as a failure in one of the two means a failure of the whole process.&lt;/p&gt;
+&lt;p&gt;As a rule of thumb, then, consider if the test is a logical &lt;code&gt;AND&lt;/code&gt; between conditions or a logical &lt;code&gt;OR&lt;/code&gt;. In the former case go for multiple assertions, in the latter create multiple test functions.&lt;/p&gt;
+&lt;h2 id="how-to-manage-bugs-or-missing-features"&gt;How to manage bugs or missing features&lt;a class="headerlink" href="https://www.thedigitalcatonline.com/categories/python/atom.xml#how-to-manage-bugs-or-missing-features" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;In this chapter we developed the project from scratch, so the challenge was to come up with a series of small tests starting from the requirements. At a certain point in the life of your project you will have a stable version in production (this expression has many definitions, but in general it means "used by someone other than you") and you will need to maintain it. This means that people will file bug reports and feature requests, and TDD gives you a clear strategy to deal with those.&lt;/p&gt;
+&lt;p&gt;From the TDD point of view both a bug and a missing feature are cases not currently covered by a test, so I will refer to them collectively as bugs, but don't forget that I'm talking about the second ones as well. &lt;/p&gt;
+&lt;p&gt;The first thing you need to do is to write one or more tests that expose the bug. This way you can easily decide when the code that you wrote is correct or good enough. For example, let's assume that a user files an issue on the &lt;code&gt;SimpleCalculator&lt;/code&gt; project saying: "The function &lt;code&gt;add&lt;/code&gt; doesn't work with negative numbers". You should definitely try to get a concrete example from the user that wrote the issue and some information about the execution environment (as it is always possible that the problem comes from a different source, like for example an old version of a library your package relies on), but in the meanwhile you can come up with at least 3 tests: one that involves two negative numbers, one with a negative number as the first argument, and one with a negative numbers as the second argument.&lt;/p&gt;
+&lt;p&gt;You shouldn't write down all of them at once. Write the first test that you think might expose the issue and see if it fails. If it doesn't, discard it and write a new one. From the TDD point of view, if you don't have a failing test there is no bug, so you have to come up with at least one test that exposes the issue you are trying to solve.&lt;/p&gt;
+&lt;p&gt;At this point you can move on and try to change the code. Remember that you shouldn't have more than one failing test at a time, so start doing this as soon as you discover a test case that shows there is a problem in the code.&lt;/p&gt;
+&lt;p&gt;Once you reach a point where the test suite passes without errors stop and try to run the code in the environment where the bug was first discovered (for example sharing a branch with the user that created the ticket) and iterate the process.&lt;/p&gt;
+&lt;h2 id="final-words"&gt;Final words&lt;a class="headerlink" href="https://www.thedigitalcatonline.com/categories/python/atom.xml#final-words" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I hope you found the project entertaining and that you can now appreciate the power of TDD. The journey doesn't end here, though. In the next post I will discuss the practice of writing unit tests in depth, and then introduce you to another powerful tool: mocks.&lt;/p&gt;
+&lt;h2 id="feedback"&gt;Feedback&lt;a class="headerlink" href="https://www.thedigitalcatonline.com/categories/python/atom.xml#feedback" title="Permanent link"&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Feel free to reach me on &lt;a href="https://twitter.com/thedigicat"&gt;Twitter&lt;/a&gt; if you have questions. The &lt;a href="https://github.com/TheDigitalCatOnline/thedigitalcatonline.github.com/issues"&gt;GitHub issues&lt;/a&gt; page is the best place to submit corrections.&lt;/p&gt;</description>
+	<pubDate>Fri, 11 Sep 2020 07:47:38 +0000</pubDate>
+</item>
+<item>
+	<title>Python&#8658;Speed: Shrink your Conda Docker images with conda-pack</title>
+	<guid>https://pythonspeed.com/articles/conda-docker-image-size/</guid>
+	<link>https://pythonspeed.com/articles/conda-docker-image-size/</link>
+	<description>&lt;p&gt;If you&#8217;re building a Docker image that&#8217;s based on Conda, the resulting images can be huge.
+For example, later I will show how a simple image with just Python 3.8 and NumPy can be over 950MB!&lt;/p&gt;
+
+&lt;p&gt;Large images waste bandwidth, disk, time, and CPU: how do you make the image smaller?&lt;/p&gt;
+
+&lt;p&gt;In this article I&#8217;ll show one way to do it, by combining the &lt;a href="https://conda.github.io/conda-pack/"&gt;&lt;code class="highlighter-rouge"&gt;conda-pack&lt;/code&gt;&lt;/a&gt; tool with multi-stage builds.
+In the example case of just Python and NumPy, the image shrinks to 330MB, almost two-thirds smaller.&lt;/p&gt;
+
+&lt;p&gt;If you&#8217;re not familiar with multi-stage builds, I recommend reading my &lt;a href="https://pythonspeed.com/articles/smaller-python-docker-images/"&gt;introduction to multi-stage builds first&lt;/a&gt;.&lt;/p&gt;
+
+
+   &lt;a href="https://pythonspeed.com/articles/conda-docker-image-size/"&gt;Read more...&lt;/a&gt;</description>
+	<pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Codementor: Correlation matrix in Excel, Python and R</title>
+	<guid>https://www.codementor.io/ng3687/correlation-matrix-in-excel-python-and-r-1a6i5puowo</guid>
+	<link>https://www.codementor.io/ng3687/correlation-matrix-in-excel-python-and-r-1a6i5puowo</link>
+	<description>Correlation matrix in Excel, Python and R.</description>
+	<pubDate>Thu, 10 Sep 2020 18:07:35 +0000</pubDate>
+</item>
+<item>
+	<title>Catalin George Festila: Python 3.8.5 : Get Sentinel-3 satellite data from Eutelsat.</title>
+	<guid>http://python-catalin.blogspot.com/2020/09/python-385-get-sentinel-3-satellite.html</guid>
+	<link>http://python-catalin.blogspot.com/2020/09/python-385-get-sentinel-3-satellite.html</link>
+	<description>The tutorial for today is about Eutelsat satellites.
+I used Sentinel-3 with these features:
+
+Instrument: SLSTR;
+Mode: EO;
+Satellite: Sentinel-3
+
+
+You need to install xarray and netcdf4 python packages:
+[mythcat@desk TLauncher]$ pip install xarray
+...
+[mythcat@desk ~]$ pip install netcdf4
+
+Defaulting to user installation because normal site-packages is not writeable
+Collecting netcdf4</description>
+	<pubDate>Thu, 10 Sep 2020 14:36:40 +0000</pubDate>
+</item>
+<item>
+	<title>Mike Driscoll: Python 101 &#8211; How to Crop a Photo (Video)</title>
+	<guid>https://www.blog.pythonlibrary.org/2020/09/10/python-101-how-to-crop-a-photo-video/</guid>
+	<link>https://www.blog.pythonlibrary.org/2020/09/10/python-101-how-to-crop-a-photo-video/</link>
+	<description>&lt;p&gt;In this tutorial, you will learn how to use Python to crop a photo using Pillow, the friendly fork of the Python Imaging Library.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://leanpub.com/py101/"&gt;&lt;img src="https://www.blog.pythonlibrary.org/wp-content/uploads/2020/02/py101_thumb.jpg" alt="" width="227" height="300" class="aligncenter size-medium wp-image-8184" /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;Would you like to learn more about Python? &lt;/p&gt;
+&lt;h3&gt;Python 101 &amp;#8211; 2nd Edition&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://leanpub.com/py101" target="_blank" rel="noopener noreferrer"&gt;Purchase now on Leanpub&lt;/a&gt;&lt;/strong&gt;
+&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://www.blog.pythonlibrary.org/2020/09/10/python-101-how-to-crop-a-photo-video/"&gt;Python 101 &amp;#8211; How to Crop a Photo (Video)&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://www.blog.pythonlibrary.org"&gt;The Mouse Vs. The Python&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Thu, 10 Sep 2020 13:36:46 +0000</pubDate>
+</item>
+<item>
+	<title>Andrew Dalke: United States v. Brown ... v. Tanimoto</title>
+	<guid>http://www.dalkescientific.com/writings/diary/archive/2020/09/10/US_v_brown_v_tanimoto.html</guid>
+	<link>http://www.dalkescientific.com/writings/diary/archive/2020/09/10/US_v_brown_v_tanimoto.html</link>
+	<description>&lt;p&gt;
+
+I work in what I'll call &lt;i&gt;algorithmic&lt;/i&gt; molecular similarity,
+where people use an algorithm to characterize if two molecules are
+similar. There is almost no overlap between those methods and
+&lt;i&gt;legal&lt;/i&gt; molecular similarity. Two essays ago I covered &lt;a href="http://www.dalkescientific.com/writings/diary/archive/2020/09/08/patents_and_molecular_similarity.html"&gt;patent
+law&lt;/a&gt;, where patentability depends on the expectations of a "person
+having ordinary skill in the art". In my previous essay I covered &lt;a href="http://www.dalkescientific.com/writings/diary/archive/2020/09/08/drug_control_law_and_molecular_similarity.html"&gt;drug
+control law&lt;/a&gt;, which in the US seems based on the ability of
+laypeople to judge chemical similarity based on 2-D structure.
+
+&lt;/p&gt;&lt;p&gt;
+
+In this essay I'll focus on one court case, United States v. Brown,
+where the court rejected the defense's use of Tanimoto similarity as
+way to judge if a molecule can be considered a controlled substance
+analogue. I think it gives an interesting viewpoint into how
+cheminformatics interacts with the legal world.
+
+&lt;/p&gt;
+&lt;h2&gt;Stepping stone&lt;/h2&gt;
+&lt;p&gt;
+
+In my &lt;a href="http://www.dalkescientific.com/writings/diary/archive/2020/09/08/drug_control_law_and_molecular_similarity.html"&gt;previous
+essay&lt;/a&gt; I quoted from Hari K. Sathappan's &lt;q&gt;&lt;a href="https://kb.osu.edu/handle/1811/73466"&gt;Slaying the Synthetic
+Hydra: Drafting a Controlled Substances Act that Effectively Captures
+Synthetic Drugs&lt;/a&gt;&lt;/q&gt;:
+
+
+&lt;blockquote&gt;
+
+While it seems "substantially similar" is meant to be a scientific
+term of art with a specific definition, consensus as to the degree of
+similarity required is something neither the courts nor the scientific
+community have found. Courts have allowed experts to use various
+methods in showing substantial similarity while rejecting other
+methods. One oft-used method that courts have struck down is the
+&lt;q&gt;Tanimoto coefficient&lt;/q&gt; method. Accepted methods include the
+&lt;q&gt;core arrangement&lt;/q&gt; of atoms method, the &lt;q&gt;visual inspection&lt;/q&gt;
+method, and the &lt;q&gt;structure and effect&lt;/q&gt; method.
+
+&lt;/blockquote&gt;
+
+The next paragraph is:
+
+&lt;blockquote&gt;
+
+The Eleventh Circuit rejected the &lt;q&gt;Tanimoto coefficient&lt;/q&gt; method
+in United States v. Brown.&lt;sup&gt;56&lt;/sup&gt; This is a quantitative method
+that involves counting the substructures in each of the substances to
+be compared, then dividing this number by the total number of
+substructures, which produces a number between zero and one
+hundred percent similarity.&lt;sup&gt;57&lt;/sup&gt;
+
+&lt;/blockquote&gt;
+
+Sathappan then summarizes the case, with details so intriguing I
+decided to read the court documents. There are two that I'll quote
+from, and I'll refer to them by the courts which write the decision:
+
+&lt;ul&gt;
+  &lt;li&gt;US District Court - &lt;a href="https://law.justia.com/cases/federal/district-courts/FSupp2/279/1238/2386703/"&gt;279 F. Supp. 2d 1238 (S.D. Ala. 2003)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;US Court of Appeals, Eleventh Circuit - &lt;a href="https://www.leagle.com/decision/20051672415f3d125711516"&gt;415 F.3d 1257 (2005)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/p&gt;
+&lt;h2&gt;What happened?&lt;/h2&gt;
+&lt;p&gt;
+
+From the appeals court:
+
+&lt;blockquote&gt;
+&lt;p&gt;
+
+Two brothers, Ronald and Kevin Brown, were convicted of conspiracy to
+distribute &lt;a href="https://en.wikipedia.org/wiki/1,4-Butanediol"&gt;1,4-butanediol&lt;/a&gt;,
+an alleged controlled substance analogue, in violation of 21 U.S.C. &amp;sect;
+846. Whether the chemical structure of that substance is
+"substantially similar" to the chemical structure of the schedule I
+controlled substance &lt;a href="https://en.wikipedia.org/wiki/Gamma-Hydroxybutyric_acid"&gt;gamma
+hydroxybutyric acid&lt;/a&gt; (GHB), such that it is a "controlled substance
+analogue" as defined by 21 U.S.C. &amp;sect; 802(32)(A), was the key question
+at trial and it is the key question in this appeal. &amp;hellip;
+
+&lt;/p&gt;&lt;p&gt;
+
+Ronald and Kevin Brown owned and operated two Internet websites that
+advertised and sold products for human consumption containing varying
+amounts of 1,4-butanediol, an industrial solvent that in recent years
+has been found to be a depressant and can be used as a "date rape"
+drug. Over a two-year period, FBI agents used an undercover e-mail
+account to purchase from the Browns approximately 23.5 gallons of
+products containing 1,4-butanediol.  &amp;hellip;
+
+&lt;/p&gt;&lt;p&gt;
+
+The Browns have conceded all along that 1,4-butanediol has the same
+effect on a person's central nervous system as GHB and thereby meets
+clause (ii) of &amp;sect; 802(32)(A). In fact, they stipulated in the
+district court that when ingested 1,4-butanediol is actually
+transformed into GHB by two naturally occurring enzymes. That leaves
+only the question of whether 1,4-butanediol meets clause (i). The
+government says it does; the Browns say it does not.
+
+&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+Clause (i) of the Analogue Act says that a &lt;q&gt;controlled substance
+analogue&lt;/q&gt; is substance that: &lt;q&gt;(i) the chemical structure of which
+is substantially similar to the chemical structure of a controlled
+substance in schedule I or II; &amp;hellip;&lt;/q&gt;
+
+&lt;/p&gt;
+&lt;h2&gt;What are the structures?&lt;/h2&gt;
+&lt;p&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/1,4-Butanediol"&gt;1,4-butanediol&lt;/a&gt;: &lt;img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAbgAAABMAgMAAABi0EqbAAAADFBMVEVHcEwAAAAAAAAAAAALttw0AAAABHRSTlMA/FuvEGvWyAAAA4hJREFUaN7dl79u2zAQxlkJGZRAo/cuGtNOQqcAeYQMOVGDE/gFCgQBgnb0S3Dv7N1jUb2E2imA5zxApwIu/0gxLfHIE6xwCAcJRhT+SN733R0Ze+cj/aeev9by8RO+vznuQ6WeIHEZAOzi4bYSt4yGSwD2ANFwGazYJVzHwhVcvtubWLhFLd/lMhZOrOQ7r2LhoFG/eCRcorzAUoiES82+NDQCzrxZ28TBZR3uOhLuVv8Ub40DPXrcYhUHl0fGLcO4JDTZxzCO7+Wg4T4Htp78JUuFcph/Aikuf1pNxAnPP2Qc/K4UT8sZjSCq1jtdBl+hmc3mKawuvTmu5ElbU5NYlzMbz2yywfD0aik8sCKUc19TtK4FCf65RpWeAlXwtUYS612gAOmD9ExnDrLkRJyOWoZL3chEoB/kOg6qwaI1D6orKm5x2TXmhXW+wqhW3NNwpSKJOm0wF9ibdC1nZW0yjMtBRzpzS/miPyTMC2VlhzCMS+E+2UKT8zXigl6gNeaCTqBeLxzuCK0sDBWiPctwBcdc0H/6QMIVEodZyzpC53rsI/R64YBLWuBrRMq2QLYV5oJBmAPjfP8DkXJmy83lBWHrNeAFz0oHLsC8cHwiebAuYHFwHk8+0t7x+SbtpIvNSMqD4I+8MFRPMakXH0p5VHaKgTeHv1//YUPCDnYzWuxgN2PndxNstdTZN/X4gst1EKtxWjqO1VgaZoILaeS6v+b4eq4jKTuEdqxEhzK0lEuJ4xTcEcFlI9tnLh/qCVr+slXrCuLsBTuThL0eV5ZRE6gI67CGcZY6nCnQ8qY7p8sJtD1VFQ3jDtpHEvxB++4KkUBTqBPKOQV32BNi2dc9IfWPlevyRn+3puD6iKHFuY8YVt3Pu/5fBpmA67Mymm57L+D50TTk8knBdTUHLybGC3hn1jXkEkPBmWV7SqXZ97bC1aZPuXyg4XRQPI2AjqqvqzYNuRQMCae84G1zlBcK7rmhmK8k7mWz2YhQRyF35i1ccmeYC/SfzUqKmpnbfwiXwqO/RS25777X4c6oOCbu/E1HBr4uYeruWHYX6DlEuyPhSLFj7DnwSf6bhXFEZcrxKdTU7GbFnTQm+u503KSscvKYljNPHpMqwuljMaXenT7Kml7NZxhnt/ReZYaR0TuxOcaEPnMeaZK76FlGQb0jzHWaxBvQTOPK3O+e1eNq9+Y44u31nYz/eD1kxjoHNMAAAAAASUVORK5CYII=" width="220" height="38" /&gt;
+
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Gamma-Hydroxybutyric_acid"&gt;gamma-Hydroxybutyric acid&lt;/a&gt; (GBH): &lt;img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAbgAAACZAgMAAAAgI8cHAAAADFBMVEVHcEwAAAAAAAAAAAALttw0AAAABHRSTlMA/FOkT2CFSAAABH9JREFUeNrtm7tuE0EUhte7cmFHW/oFkFZCSBY0Fq0fwQXj3WJj/AiWUCQq5JfYnoYm1O4Qck890OYNUiZSJMJcdr3XOTPDOCcCzSkcYWC+ufznMpcEgTdvwg7kIyItJoTc4OEKhsvRaBFJH0mKOJc3wZwssXDJmn2QHdrSZexjkWHhKJ/H8TskWkj27HOSogmz/kSwUVqPEcEma/GDHJFwUiQUCRdLXIHk53H+LLgtDm78PLj/e+2WqI5Al6hujhVVRmUQQ4qZyBlB5oIRWm0kRBKv0WqVFa9V0ArNBR8YXeHVmcdgQrZYuIi8v6ZYfsAnEnWPwCp2gjeXzPMo2WBuJ8Nrv6X+R236OZjiuV0Q74Jk6XEe53Ee53Ee53Ee53Ee53Ee53Ee53F/j3v59LjoN/985CcGB/LpyXHygJyfCzq/IbDDOb8hsMAdg5CkD26nn1aj4+e6bme7VrjE+eTaajJn4g1BjjU6yufR6dbBCieuppzuVGwmU94VOV3q24wukuNyuX6zwZXXbxQHdyyfLLhcnRrh0mtmZF/eZYLX3hd7De6bHkeE7cub2hmEewu/7Ik/XH0xxB0NcFGagsPjKcV4dLkWl6TwO6mYXOlx6e33h1sTXEizAxh0EvJD+26rUmaslUrM5AtmDJoHxdrQ7/S4YsNaBK6wJqwWmOjqgQo30T2mESOLgagjRkZzs8msoooSd0jl+il1K9Ztrgm6pyCmiZmyNSYHVXOL8uFWZoQLNRkhkT4XqbQXli9PF7BvnrJ5le/eKFrLmoMY8oJ9APZHkc1/qrygoZhhLyjXeG2EE7VKkofDUq4VV2zA7mh84TSZshLLhqXcaGPYFxqdAH3hNLpYeOmWSfmo8KkqluUKpwT708WxKvorFT8zlRe0RdH3go6qwMkUe4TNsJRbX4X9x9ZR66sE8IX2Dmg7KOVOf/u+0B4w5Atyf3cn93ebOlw1rROZLrq+0A1tB6NqtXpD0HOtrji6aaYrDsudTSfN9Dyp+0XPFQurpxad3vZzZnu4/cHEVtVxWxoX/ZVvL2Z/qYA8BcVbVVBu9WdIiLKB6eM9/4OQxAsgUTT9KBz6nYZmF4bcTP4nKs8WBBosYBvNDSbUxoiGgwhvIC7jhh5Xr344HHFr+QzGWOGbM1HAmuDq5hQiq31BkQCKLCSb/ZzPggHuRFG5UEVRpbd4N+J/w/+ZAa5qThkgqv4oC9mbMV9/nkVNcKVCVKVJpRAgHCe56K4ZTkoZak3of6GOxrNdWdqZ4GRD6rJS9iQEftFI1v9sT2SE47ELDEY8dgHdKbf5DGqE4yIAQy1XEVQGyZ6wKTXDMYnDiaTYxECRVxbkC1NcQC+JxjfpGoq7UgIrU9z8Ei4CQkrBnbwUMMMJ0+LCS83WN/kV6HGZKS54rTkgi+71uLE5zsnsR3cunJlUzoNbIeEIKi609TtHswxirmYZol1NJiC6RMLZpVdnsyoe3C22KY3czarwO4fjbQLTsvYsWhGH3Gg4viVZB2g48w3XeWx6V28nX+0Db+e0PwmszbeYqi0fAAAAAElFTkSuQmCC" width="220" height="76" /&gt;
+
+&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;
+
+(Both images from the respective Wikipedia pages, in the public domain.) 
+
+&lt;p&gt;
+
+Yeah, those look pretty similar to me. Let's see what various
+fingerprinting methods say:
+
+&lt;pre class="code"&gt;
+% cat brown.smi
+OCCCCO BD
+O=C(O)CCCO GHB
+% oe2fps --path brown.smi | simsearch --NxN /dev/stdin --threshold 0.0 | tail -1
+1	GHB	BD	0.21739
+% oe2fps --circular brown.smi | simsearch --NxN /dev/stdin --threshold 0.0 | tail -1
+1	GHB	BD	0.33333
+% ob2fps --FP2 brown.smi | simsearch --NxN /dev/stdin --threshold 0.0 | tail -1
+1	GHB	BD	0.57143
+% rdkit2fps --maccs166 brown.smi | simsearch --NxN /dev/stdin --threshold 0.0 | tail -1
+1	GHB	BD	0.7500
+% rdkit2fps --RDK brown.smi | simsearch --NxN /dev/stdin --threshold 0.0 | tail -1
+1	GHB	BD	0.44444
+% rdkit2fps --morgan brown.smi | simsearch --NxN /dev/stdin --threshold 0.0 | tail -1
+1	GHB	BD	0.40000
+% rdkit2fps --secfp brown.smi | simsearch --NxN /dev/stdin --threshold 0.0 | tail -1
+1	GHB	BD	0.40000
+&lt;/pre&gt;
+
+What a range! 0.2 through 0.75, with the highest being the 166-bit
+MACCS keys.
+
+&lt;/p&gt;
+&lt;h2&gt;What is the relevant legal definition of similarity?&lt;/h2&gt;
+&lt;p&gt;
+
+Quoting now from the district court judgement (the previous quotes
+were from the appeals court) we see that the courts interpret
+similarity as what a &lt;q&gt;reasonable layperson&lt;/q&gt; would decide:
+
+&lt;blockquote&gt;
+
+&lt;p&gt;
+
+Turning to the issue at hand, the Defendants contend that the term
+"similar in chemical structure" is not defined by statute and should
+be explained as it is used in the scientific community. &amp;hellip; There
+is no dispute that the term "chemical structure" should be explained
+as it is used in the field of chemistry, but the Defendants and the
+government are at odds over whether the phrase "substantially similar"
+should be interpreted according to its common or scientific meaning.
+&amp;hellip;
+
+&lt;/p&gt;&lt;p&gt;
+
+Since the Analogue Act does not indicate that the term "substantially
+similar" is to be defined as it is used scientifically, the court will
+interpret those words as they are used in everyday language. &amp;hellip;
+
+&lt;/p&gt;
+&lt;/blockquote&gt;
+
+The judgement includes an extensive list of court cases, including one
+which decided that the law includes metabolites, which I'll skip.
+
+&lt;/p&gt;
+&lt;h2&gt;The prosecution's expert witnesses&lt;/h2&gt;
+&lt;p&gt;
+
+There were two government witnesses, Dr. James DeFrancesco, a forensic
+drug chemist for the DEA, and Dr. Richard Irwin, a
+biochemist/toxicologist with the National Institute of Environmental
+Health Sciences:
+
+&lt;blockquote&gt;
+
+Both doctors, in determining the chemical structures of BD and GHB and
+assessing the similarity of the two chemical structures, viewed both
+molecules in their two-dimensional static state and formed opinions
+based on their knowledge, skill, and experience. Both doctors stated
+that a visual assessment was the best method of forming an opinion on
+structural similarity and is generally accepted in the scientific
+community. Furthermore, both doctors stated that the rapid
+metabolization rate of BD into GHB factored into their opinion.
+Without more, the court finds that both doctors had sufficient facts
+and data before them in forming their opinions. Likewise, both doctors
+employed an accepted method in reaching their conclusion and applied
+it reliably to the facts before them. Accordingly, the court holds
+that the opinions of both doctors on the similarity of chemical
+structures between BD and GHB are both relevant and reliable.
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;
+
+Both agreed there's no hard-and-fast definition of similarity, &lt;q&gt;if
+six chemists were asked about their opinion of the substantial
+similarity between two chemical structures, then six different answers
+may be offered. &lt;q&gt;`Substantial similarity' is a gut-level
+decision.... And all `gut feelings' are legitimate.&lt;/q&gt;&lt;/q&gt;. (The
+appellate court writes &lt;q&gt;he later explained that what he meant was
+that it was a judgment based on thirty years of learning and
+experience as a chemist&lt;/q&gt;.)
+
+&lt;/p&gt;&lt;p&gt;
+
+They characterized the two structures as:
+
+&lt;blockquote&gt;
+
+&amp;hellip; simple linear molecules with a four carbon chain. The main
+difference between GHB and BD is at the terminal carbon. &amp;hellip; the
+two molecules are not complex structurally, so one change in structure
+may have disproportionate effects on the physical and chemical
+properties of the molecule. &amp;hellip; Once ingested, the chemical
+structure of BD converts into the chemical structure of GHB in a two
+step process within minutes. &amp;hellip; Despite the dissimilar
+functional groups on one end of the shared carbon chain, both
+government experts opined that BD was substantially similar in
+chemical structure to GHB.  Moreover, both government witnesses
+explained the significance of the metabolization process on their
+analysis of chemical structure.
+
+&lt;/blockquote&gt;
+
+Sounds entirely reasonable to me, and the court &lt;q&gt;reach[ed] the
+conclusion that the chemical structures of BD and GHB are
+substantially similar.&lt;/q&gt;
+
+&lt;/p&gt;
+&lt;h2&gt;The defendant's witness&lt;/h2&gt;
+&lt;p&gt;
+
+The defendant's witness was Dr. John Steele, with a Ph.D. in Plant
+Pathology whose &lt;q&gt;experience related more to plant pathology and botany
+than to chemistry&lt;/q&gt; (quoting the appelate court).
+
+&lt;blockquote&gt;
+
+During his course of study, he claimed to have placed an emphasis on
+chemistry in general. Id. He began his professional career as a
+research associate in the field of plant pathology for nine years at
+the Universities of Minnesota and Wisconsin, and moved into the
+private sector mainly as a scientist for twenty-two years. Id. Dr.
+Steele, at trial, stated that he has worked with GHB and BD on
+isolated projects even though he does not possess a license to work
+with controlled substances. Dr. Steele now earns his living as a
+freelance consultant.
+
+&lt;/blockquote&gt;
+
+Notice how I did not say &lt;i&gt;expert&lt;/i&gt; witness? That's because:
+
+&lt;blockquote&gt;
+
+The court is unwilling to qualify Dr. Steele as an expert with
+knowledge in the area of controlled substances, especially BD and GHB.
+However, because of the relaxed nature of the Daubert standards in a
+bench trial, the court will still consider Dr. Steele's testimony, but
+his lack of expertise in the area substantially affects the weight of
+his testimony. However, even if the court were to qualify Dr. Steele
+as an expert in this matter, for the reasons set forth below, the
+court finds that he did not use reliable methods in reaching his
+conclusion, and the methods he did employ were not reliably applied.
+
+&lt;/blockquote&gt;
+
+&lt;/p&gt;
+&lt;h2&gt;The Tanimoto Coefficient and Computer Database Searches&lt;/h2&gt;
+&lt;/p&gt;
+
+(This section title is lifted directly from the district court.)
+
+&lt;/p&gt;&lt;p&gt;
+
+Steele &amp;hellip;:
+
+&lt;blockquote&gt;
+
+&amp;hellip; criticized the government's experts claiming that they only
+used impressionistic, non-quantitative methods which usually are not
+considered scientific [&amp;hellip; He] employed the Tanimoto
+coefficient&lt;sup&gt;&lt;a href="http://dalkescientific.com/writings/diary/diary-rss.xml#legal_tanimoto"&gt;[4]&lt;/a&gt;&lt;/sup&gt; to determine
+the percentage of similarity in chemical structure between BD and GHB.
+He noted that this method was more reliable and effective than just
+looking at structures because it had the advantage of not being
+subjectively weighted. . He stated that under the Tanimoto coefficient
+BD was 46.7% similar to GHB. Accordingly, Dr. Steele opined that since
+the percentage is below 50%, then BD must not be substantially similar
+to GHB because "substantial" means largely or a good deal above 50%.
+
+&lt;/blockquote&gt;
+
+&lt;/p&gt;&lt;p&gt;
+
+Now's the point where the trial judge gets a bit juicy:
+
+&lt;blockquote&gt;
+
+In a move that would make Las Vegas odds-makers and Enron accountants
+proud, Dr. Steele unnecessarily compared the entire structures of BD
+and GHB with each other in calculating the Tanimoto coefficient of the
+substructures of the two molecules. The net effect of this
+manipulation was to skew the equation before the comparison of the
+substructures even started.&lt;sup&gt;[&lt;a href="http://dalkescientific.com/writings/diary/diary-rss.xml#correct_tanimoto"&gt;5&lt;/a&gt;]&lt;/sup&gt;
+Dr. Steele attempted to justify his method by stating that
+substructures alone do not suffice to distinguish one chemical from
+another. However, the court found this answer unsatisfactory since two
+distinct molecules may be entirely comprised of the same substructures
+which are nonetheless arranged differently. &amp;hellip; the court
+determined that the Tanimoto coefficient, as used in this case,
+impermissibly emphasized the differences between BD and GHB by
+counting the COOH compound found in GHB, but not BD, several times.
+The skewed results convinced the court that the Tanimoto coefficient
+is not a reliable indicator of structural similarity when assessing
+two simple linear molecules with only one differing functional group,
+nor was it even reliably applied in this instance.
+
+&lt;/blockquote&gt;
+
+That was the use of the Tanimoto on structural fragments. What are the
+"Computer Database Searches"?
+
+&lt;blockquote&gt;
+
+Second, Dr. Steele ran several computer database searches using three
+different software programs, Chemfinder, ChemIDplus, *1249 and
+Advanced Chemical Development ("ACD"), to compare the structural
+similarity of BD and GHB.&lt;sup&gt;[6]&lt;/sup&gt; The first software program,
+Chemfinder, uses the Tanimoto coefficient to calculate structural
+similarity between compounds. Obviously, the court, for the above
+reasons, finds the results of Chemfinder to be unpersuasive as the
+software is based on the Tanimoto coefficient. Under all the searches
+using the two other programs, ChemIDplus and ACD, neither BD nor GHB
+showed up as being 50% similar to the other compound. Thus, Dr.
+Steele, on the basis of these results, concluded that BD and GHB were
+not substantially similar to one another in chemical structure.
+
+&lt;/blockquote&gt;
+
+&lt;/p&gt;&lt;p&gt;
+
+The court noticed that &lt;q&gt;some of the results from the searches were
+bizarre and curious&lt;/q&gt;, because several compounds (&lt;a href="http://www.chemspider.com/Chemical-Structure.75107.html"&gt;4-Phenylbutylamine&lt;/a&gt;
+and &lt;a href="https://en.wikipedia.org/wiki/Butyric_acid"&gt;butanoic
+acid&lt;/a&gt;) came up as being more similar to BD and GBH, respectively,
+than BD and GBH were to each other. This caused Irwin (a government
+expert witness) to be &lt;q&gt;stunned&lt;/q&gt; and &lt;q&gt;extremely surprised&lt;/q&gt; if
+a chemist would make those same judgements.
+
+&lt;blockquote&gt;
+
+&lt;p&gt;
+In assessing the reliability of these results, the court tried to
+ascertain how ChemIDplus and ACD were programmed. The government
+experts and Dr. Steele all agreed that the term "similarity" had to be
+measured in some way to allow the software to search for matches.
+Therefore, the programmer necessarily had to leave his or her
+fingerprints on the algorithm, or the set of instructions, which
+allows the programs to perform certain functions such as assessing the
+structural similarity of the molecules. Dr. Steele conceded that he
+did not know the parameters of the relevant software beyond the guess
+that it probably used some variation of the Tanimoto coefficient along
+with other factors. He admitted that he did not know what the other
+factors might be because the parameters of the software were
+"proprietary" information. &amp;hellip; both government experts testified
+that they did not believe that other scientists would use computer
+database searches for comparing the structural similarities of two
+known simple molecules. Dr. Steele conceded that he did not know if
+these types of searches were commonly used for this purpose. In Dr.
+Steele's own words, "My measurements are simply others I ran in
+programs, the parameters of which I do not know.... I simply ran the
+numbers."
+
+&lt;/p&gt;&lt;p&gt;
+
+Obviously, without knowing how the computer programs define
+"similarity," the results are of little, if any, value to the issue at
+hand. The court finds it amazing that Dr. Steele would stake his
+professional reputation on the results of a program without knowing
+how it works. Furthermore, in solely relying on the search results as
+being the undisputed measure of structural similarity, the stubborn
+refusal by Dr. Steele to supplement his opinion by visually assessing
+4-Phenylbutylamine, butanoic acid, BD, and GHB, reeked of bias.
+Complete acceptance of another person's subjective definition of
+"similarity" does not make for an objective scientific method; rather,
+it is blind reliance devoid of merit. Accordingly, the court is unable
+to find that the database searches, as used here, were reliable, much
+less reliably applied.
+
+&lt;/p&gt;&lt;/blockquote&gt;
+
+The phrase &lt;q&gt;the programmer necessarily had to leave his or her
+fingerprints on the algorithm&lt;/q&gt; is appropriate for both the
+metaphor and for the unintentially relevance of how different
+cheminformatics fingerprints yield different scores.
+
+&lt;/p&gt;
+&lt;h2 id="legal_tanimoto"&gt;How to compute the Tanimoto&lt;/h2&gt;
+&lt;p&gt;
+
+The district court describes (in footnote [4]) how to compute the
+Tanimoto between two structures:
+
+&lt;blockquote&gt;
+
+[4] The Tanimoto coefficient works by parsing out all the different
+combinations of substructures contained in the two molecules being
+compared. With both molecules, one would start on one end and cut off
+the first substructure from the molecule, then cut off the first two
+connected substructures and proceed accordingly stopping after the
+next to last substructure on the opposite end. Likewise, one would
+then repeat the process starting on the opposite end. Finally, one
+would start in the middle of a molecule and work out toward the ends
+stopping after the next to last substructures on both ends. After
+counting up the total number of substructures, one would divide the
+number of shared substructures by the total number to reach the
+percentage of similarity. See Def. ex. 4.
+
+&lt;/blockquote&gt;
+
+That's then worked out in footnote [5]
+
+&lt;blockquote id="correct_tanimoto"&gt;
+
+[5] Here, Dr. Steele found that BD and GHB shared 7 common
+substructures out of a total number of 15, making BD 46.7% similar to
+GHB. (7 &amp;divide; 15 = 46.7%). Def. ex. 4. However, when the intact molecules
+of BD and GHB are removed from the equation, leaving just the
+substructures, both molecules share 7 common substructures out of a
+total number of 13, which makes BD 53.8% similar to GHB. (7 &amp;divide; 13 =
+53.8%).
+
+&lt;/blockquote&gt;
+
+You'll note that none of these match the fingerprint Tanimotos I gave above.
+
+&lt;/p&gt;&lt;p&gt;
+
+I tried to reverse-engineer how it was done, but didn't get the same
+answers. I'm not sure how they handled the carboxyl, and frankly,
+don't care enough.
+
+&lt;/p&gt;
+&lt;h3&gt;Court of Appeal decision&lt;/h3&gt;
+&lt;p&gt;
+
+The Court of Appeals decided that Steele's Tanimoto method wasn't
+applicable and that the district court made the correct decision in
+ruling that BD and GBH were similar enough under the Analogue Act.
+
+&lt;/p&gt;</description>
+	<pubDate>Thu, 10 Sep 2020 12:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Python Circle: Python program to convert Linux file permissions from octal number to rwx string</title>
+	<guid>https://www.pythoncircle.com/post/716/python-program-to-convert-linux-file-permissions-from-octal-number-to-rwx-string/</guid>
+	<link>https://www.pythoncircle.com/post/716/python-program-to-convert-linux-file-permissions-from-octal-number-to-rwx-string/</link>
+	<description>Python program to convert Linux file permissions from octal number to rwx string, Linux file conversion python program, Python script to convert Linux file permissions</description>
+	<pubDate>Thu, 10 Sep 2020 10:46:12 +0000</pubDate>
+</item>
+<item>
+	<title>Abhijeet Pal: Python&#8217;s @property Decorator Explained</title>
+	<guid>https://djangocentral.com/property-decorator-explained/</guid>
+	<link>https://djangocentral.com/property-decorator-explained/</link>
+	<description>&lt;p&gt;Python provides a built-in @property&#160;decorator which makes usage of getter and setters much easier in Object-Oriented Programming. Properties are useful because they allow us to handle both setting and getting values in a programmatic way but still allow attributes to be accessed as attributes. Let&amp;#8217;s look at one example. class Circle(): def __init__(self, radius): self.diameter = 2*radius def circumference(self): return 3.14*self.diameter @property def radius(self): return self.diameter / 2 @radius.setter def radius(self, radius): self.diameter = 2 * radius In Python, @property is a built-in decorator that creates and returns a property object. The @property decorator is internally taking the bounded method as an argument and returns a descriptor object. That descriptor object then gets the same name of the old method therefore the setter method is bound to that method i.e. @radius.setter&#160;the method getter is referring too. Now let&amp;#8217;s create an object and get its circumference c = Circle(radius=2) c.circumference() Output: 12.56 Next, let&amp;#8217;s use the radius setter method. c.radius = 3 c.circumference() Output: 18.84 Properties solve several problems. The main one is that they allow you to substitute a method &amp;#8230;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://djangocentral.com/property-decorator-explained/"&gt;Python&amp;#8217;s @property Decorator Explained&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://djangocentral.com"&gt;Django Central&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Thu, 10 Sep 2020 09:47:51 +0000</pubDate>
+</item>
+
+</channel>
+<spam>This is a test</spam></rss>
