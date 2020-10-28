@@ -105,7 +105,6 @@ print(base64.b16decode(h))
 
 print("----------------")
 # Binary Data
-
 def write_records(records, format, f):
     record_struct = Struct(format)
     for r in records:
