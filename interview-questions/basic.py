@@ -1,5 +1,5 @@
 # Fibonacci sequence
-def fib(num):
+def fib1(num):
     if num <= 0:
         print("Incorrect number")
     
@@ -8,9 +8,16 @@ def fib(num):
     elif num == 2:
         return 1
     else:
-        return fib(num - 1) + fib(num -2)
+        return fib1(num - 1) + fib1(num - 2)
 
-print(fib(9))
+def fib2(num):
+    p, q = 0, 1
+    while p < num:
+        yield p
+        p, q = q, p + q
+
+print(fib1(9))
+print([str(i) for i in fib2(9)])
 
 # Fizzbuzz
 def fizzbuzz(n):
