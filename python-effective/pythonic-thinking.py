@@ -53,9 +53,50 @@ print(flat)
 print([[i for i in row if i > 3] for row in matrix if sum(row) > 3])
 
 
-it = ((str(x), len(x)) for x in open('python-tutorials/files/data.txt'))
+it = ((str(x), len(x)) for x in open('python-cookbook/files/data.txt'))
 print(next(it))
 
 
+names = ['Cecilla', 'Lise', 'Marie']
+letters = [len(name) for name in names]
+longest_name = None
+max_letter = 0
 
+for name, count in zip(names, letters):
+    if count > max_letter:
+        max_letter = count
+        longest_name = name
+print(longest_name)
+
+
+def else_block(first, last):
+    for i in range(first, last):
+        print("%d " % i, end='')
+        if i == 100:
+            break
+    else:
+        first = last
+        last += 10
+        else_block(first, last)
+        
+else_block(1, 10)
+
+
+import json
+def update_file(path):
+    handler = open(path, 'r+')
+    try:
+        data = handler.read()
+        ob = json.loads(data)
+    except Exception as e:
+        return False
+    else:
+        result = json.dumps(ob)
+        handler.seek(0)
+        handler.write(result)
+        return True
+    finally:
+        handler.close()    
+
+update_file('python-cookbook/files/data.txt')
 
