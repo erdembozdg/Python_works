@@ -45,3 +45,44 @@ values.sort(key=sorter)
 print(values)
 assert sorter.found is True
 
+
+from itertools import islice
+def index_word(f):
+    offset = 0
+    for line in f:
+        if line:
+            yield offset
+        for index, letter in enumerate(line):
+            offset +=1
+            if letter == ' ':
+                yield offset
+
+with open('python-cookbook/files/data.txt', 'r') as f:
+    it = index_word(f)
+    result = islice(it, 3, 4)
+    print(list(result))
+
+import time, datetime
+def normalize(get_iter):
+    total = sum(get_iter())
+    result = []
+    for value in get_iter():
+        percentage = 100 * value / total
+        result.append(percentage)
+    return result
+print(normalize(lambda: values))
+
+
+import json
+def decode(data, default=None, when=None, ignore=False):
+    if default == None:
+        default = {}
+    when = datetime.datetime.now() if when is None else when
+    try:
+        print("%s %s" % (json.loads(data), when))
+    except ValueError:
+        if ignore:
+            return 0
+        print("%s %s" % (default, when))
+decode("Hello World", ignore = True)
+
