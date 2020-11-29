@@ -11,7 +11,7 @@ from configparser import ConfigParser
 import logging
 import logging.config
 import webbrowser
-
+import send2trash
 # with fileinput.input() as f_input:
 #     for line in f_input:
 #         print(line, end="")
@@ -71,8 +71,6 @@ def modified_within(top, seconds):
                 mtime = os.path.getmtime(full_path)
                 if mtime > (now - seconds):
                     print(full_path)
-
-
 
 def main():
     log = logging.getLogger(__name__)
