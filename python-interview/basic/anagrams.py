@@ -1,5 +1,5 @@
 # Anagrams
-from collections import defaultdict
+from collections import defaultdict, Counter
 def anagram(s1, s2):
     def build_map(string):
         map_char = defaultdict(int)
@@ -18,9 +18,17 @@ def anagram(s1, s2):
             return False
     return True
 
+def makeAnagram(a, b):
+    ct_a = Counter(a)
+    ct_b = Counter(b)
+    ct_a.subtract(ct_b)
+    return sum(abs(i) for i in ct_a.values())
+
 s1 = "erdem bozdag"
 s2 =  "Erdem Bozdag"
 if(anagram(s1, s2)):
     print(f"{s1} {s2} are anagrams")
 else:
     print(f"{s1} {s2} are not anagrams")
+    
+print(makeAnagram(s1, s2))

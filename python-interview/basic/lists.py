@@ -13,3 +13,4 @@ def vowels(string):
             count += 1
     return count
 print(f'String has {vowels("Erdem Bozdag")} vowels')
+

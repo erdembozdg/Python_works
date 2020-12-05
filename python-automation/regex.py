@@ -22,3 +22,16 @@ print(re.findall(r"[^\d,\s]+", 'There are 3 numbers 345, 44 and 22'))
 print(' '.join(re.findall(r"[^!.? ]+", 'This is a string! But it has punctuation. How can we remove it?')))
 print(re.findall(r"[\w]+-[\w]+", 'Only find the hypen-words and long-ish'))
 print(re.search(r"cat(fish|nap)", 'Hello, would you like some catfish?').group())
+print(re.findall("(?<=[qwrtypsdfghjklzxcvbnm])([aeiuo]{2,})[qwrtypsdfghjklzxcvbnm]", "rabcdeefgyYhFjkIoomnpOeorteeeeet", re.I))
+print(re.findall("^[A-Za-z](\w|-|\.|_)+@[A-Za-z]+\.[A-Za-z]{1,3}$", "dexter@hotmail.com"))
+
+Regex_Pattern = r"(?i)(?<![aeiuoAEIOU])."
+Regex_Pattern = r"(.)(?!\1)"
+Regex_Pattern = r"(?<=[13579]\d)"	
+
+patterns = [r'^[a-zA-Z0-9]{10}$', # Check proper contents/length
+            r'(.*[A-Z].*){2,}',    # Count Upper Case
+            r'(.*[0-9].*){3,}',    # Count Numbers
+            r'^(?:([a-zA-Z0-9])(?!.*\1))*$'] # Match any string w/o repeating chars
+reg = map(re.compile, patterns)
+print('Valid' if all([x.match("B1CDEF2354") for x in reg]) else 'Invalid')
