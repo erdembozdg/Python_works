@@ -12,49 +12,49 @@ import logging
 import logging.config
 import webbrowser
 import send2trash
-# with fileinput.input() as f_input:
-#     for line in f_input:
-#         print(line, end="")
 
-# sys.stderr.write('It failed \n')
-# raise SystemExit(1)
-# raise SystemExit("It failed")
+with fileinput.input() as f_input:
+    for line in f_input:
+        print(line, end="")
 
-# user = getpass.getuser()
-# passwd = getpass.getpass()
+sys.stderr.write('It failed \n')
+raise SystemExit(1)
+raise SystemExit("It failed")
 
-# out_bytes = subprocess.check_output(['netstat', '-a'])
-# print(out_bytes.decode('utf-8'))
+user = getpass.getuser()
+passwd = getpass.getpass()
 
-# try:
-#     out_bytes = subprocess.check_output(['cmd', 'arg1', 'arg2'], sterr=subprocess.STDOUT, timeout=5)
-# except subprocess.CalledProcessError as e:
-#     out_bytes = e.output
-#     code = e.returncode
-# except subprocess.TimeoutExpired as e:
-#     out_bytes = e.output
-#     code = e.returncode  
+out_bytes = subprocess.check_output(['netstat', '-a'])
+print(out_bytes.decode('utf-8'))
 
-# out_bytes = subprocess.check_output('grep python | wc > out', shell=True)
+try:
+    out_bytes = subprocess.check_output(['cmd', 'arg1', 'arg2'], sterr=subprocess.STDOUT, timeout=5)
+except subprocess.CalledProcessError as e:
+    out_bytes = e.output
+    code = e.returncode
+except subprocess.TimeoutExpired as e:
+    out_bytes = e.output
+    code = e.returncode  
 
-# text = b'hello world'\
-# p = subprocess.Popen(['wc'], stdout = subprocess.PIPE, stdin = subprocess.PIPE)
-# stdout, stdin = p.communicate(text)
-# out = stdout.decode('utf-8')
-# err = stderr.decode('utf-8')
+out_bytes = subprocess.check_output('grep python | wc > out', shell=True)
 
-# shutil.move(src, dst)
-# shutil.copy(src, dest)
-# shutil.copy2(src, dest) # cp -p src dst
-# shutil.copy2(src, dst, follow_symlinks=False)
-# shutil.copytree(src, dest) # cp -R src dst
-# shutil.copytree(src, dst, symlinks=True)
+text = b'hello world'\
+p = subprocess.Popen(['wc'], stdout = subprocess.PIPE, stdin = subprocess.PIPE)
+stdout, stdin = p.communicate(text)
+out = stdout.decode('utf-8')
+err = stderr.decode('utf-8')
 
-# shutil.copytree(src, dst, ignore=shutil.ignore_patterns('*~','*.pyc'))
+shutil.move(src, dst)
+shutil.copy(src, dest)
+shutil.copy2(src, dest) # cp -p src dst
+shutil.copy2(src, dst, follow_symlinks=False)
+shutil.copytree(src, dest) # cp -R src dst
+shutil.copytree(src, dst, symlinks=True)
 
-# shutil.make_archive('py33','zip','Python-3.3.0')
-# shutil.unpack_archive('Python-3.3.0.tgz')
+shutil.copytree(src, dst, ignore=shutil.ignore_patterns('*~','*.pyc'))
 
+shutil.make_archive('py33','zip','Python-3.3.0')
+shutil.unpack_archive('Python-3.3.0.tgz')
 
 def findfile(start, name):
     for path, dirs, files in os.walk(start):

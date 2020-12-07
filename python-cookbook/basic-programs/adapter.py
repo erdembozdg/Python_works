@@ -23,7 +23,6 @@ class DateAgeAdapter:
         birthday = self._str_date(birthday)
         self.calculator = AgeCalculator(birthday)
 
-
     def get_age(self, date):
         birthday = self._str_date()
         return self.calculator.claculateAge(date)

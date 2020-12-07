@@ -33,3 +33,13 @@ def int_reversal(num):
         return int(reverse) * -1
     return reverse
 print(int_reversal(-123456789))
+
+def reverse_array(arr):
+    start = 0
+    end = len(arr) - 1
+    while end > start:
+        arr[end], arr[start] = arr[start], arr[end]
+        end -= 1
+        start += 1
+    return arr
+print(reverse_array([1,2,3,4,5]))
