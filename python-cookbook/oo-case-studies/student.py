@@ -1,5 +1,5 @@
-
-class Student():
+import os
+class Student:
 
     def __init__(self, first_name, last_name, courses=None):
         self._first_name = first_name
@@ -31,6 +31,7 @@ class Student():
     def last_name(self, value):
         if not isinstance(value, str):
             raise TypeError('Expected a string')
+        self._last_name = value
 
     def set_first_name(self, value):
         if not isinstance(value, str):
@@ -58,8 +59,8 @@ class Student():
         else:
             print(f"{course} is not found")
 
-            def __len__(self):
-                return len(self.courses)
+    def __len__(self):
+        return len(self.courses)
 
     def find_in_file(self, file_name):
         with open(file_name) as f:

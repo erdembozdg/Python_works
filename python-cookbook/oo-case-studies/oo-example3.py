@@ -45,3 +45,20 @@ class SubLoader:
 
 print(isinstance(SubLoader(), Loader))
 
+# Monkey Patching
+class A:
+    def __init__(self, num):
+        self.num = num
+        
+    def __add__(self, other):
+        return self.num + other.num 
+def get_num(self):
+    return self.num
+
+a = A(3)
+A.get_num = get_num
+print(a.get_num())
+        
+        
+    
+
