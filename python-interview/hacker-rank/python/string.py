@@ -17,3 +17,22 @@ def commonChild(s1, s2):
                    
     return m[-1][-1]
 print(commonChild("HARRY", "SALLY"))
+
+def check_sos(s):
+    s = s.strip()
+    return sum(1 for i in range(len(s)) if s[i] != "SOS"[i%3])
+print(check_sos("SOSSPSSQSSOR"))
+
+def hackerrankInString(s):
+    hr = list("hackerrank")
+    for i in s:
+        if i == hr[0]:
+            hr.pop(0)
+    if len(hr) == 0:
+        return "YES"
+    return "NO"
+print(hackerrankInString("hhhhaaaaackkkkerrrrrrrrank"))
+
+arr = [1,2,34,4,5,6]
+for i in range(len(arr)):
+    print(i,arr[i])

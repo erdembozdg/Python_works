@@ -2,6 +2,7 @@ import time
 from functools import wraps, partial
 import logging
 from inspect import signature
+import types
 
 def timethis(func):
     @wraps(func)

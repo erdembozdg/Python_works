@@ -22,7 +22,8 @@ print(list(islice(fibonacci(), 8)))
 
 def foo(x):
     yield from range(x**2)  
-print(list(foo(5)))   
+print(list(foo(5)))  
+ 
 
 
 

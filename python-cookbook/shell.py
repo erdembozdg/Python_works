@@ -131,6 +131,8 @@ if __name__ == '__main__':
     # cfg.read(os.path.expanduser('~/.config.ini'))
     # cfg.write(sys.stdout)
     main()
+    
+    
 
 
 

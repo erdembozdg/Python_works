@@ -59,7 +59,31 @@ print(a.average)
 c = Color('e', 'c')
 c.name = 'erdem'
 
+# Decorating Methods
+from types import MethodType
 
+class Decorator():
+    def __init__(self, func):
+        self.func = func
+    
+    def __call__(self, *args, **kwargs):
+        print('Inside the decorator')
+        return self.func(*args, **kwargs)
+    
+    def __get__(self, instance, cls):
+        return self if instance is None else MethodType(self, instance)
+    
+@Decorator  
+def testFunc():
+    print("Inside the function")
+
+class Test:
+    @Decorator
+    def __init__(self):
+        pass
+
+testFunc()
+Test()
 
 
 
