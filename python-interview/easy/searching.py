@@ -4,7 +4,6 @@ def binary_search(arr, item):
     first = 0
     last = len(arr) - 1
     found = False
-    
     while first <= last and not found:
         mid = int((first+last)/2)
         if arr[mid] == item:
