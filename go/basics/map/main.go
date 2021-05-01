@@ -3,24 +3,22 @@ package main
 import "fmt"
 
 func main() {
-
-	colors := map[string]string{
-		"red": "#ff0000",
-		"green": "#123456",
-		"white": "#687687",
+	colors := map[string]string {
+		"red": "#12345",
+		"blue": "#43215",
+		"green": "#87652",
 	}
+
 	// var colors map[string]string
-
-	// colors := make(map[int]string)
-
-	// colors[10] = "#ffffff"
-	// delete(colors, 10)
-	// fmt.Println(colors)
+	// colors := make(map[string]string)
+	// colors["white"] = "#23412"
+	// delete(colors, "white")
 	printMap(colors)
+
 }
 
 func printMap(c map[string]string) {
-	for color, hex := range c {
-		fmt.Println("Hex code for", color, "is", hex)
+	for color, value := range c {
+		fmt.Println("Hex code for", color, "is", value)
 	}
 }
