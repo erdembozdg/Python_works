@@ -1,0 +1,8 @@
+[
+  "basics/test_suite_1.py::test_login_page_valid_user",
+  "basics/test_suite_1.py::test_login_page_wrong_password",
+  "basics/test_suite_2.py::TestCheckout::test_checkout_as_guest",
+  "basics/test_suite_2.py::TestCheckout::test_checkout_with_existing_user",
+  "basics/test_suite_with_setup.py::test_login_page_valid_user",
+  "basics/test_suite_with_setup.py::test_login_page_wrong_password"
+]

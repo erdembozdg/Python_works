@@ -1,9 +1,9 @@
 
 def bubble_sort(nums):
-    for i in range(len(nums)):
-        for j in range(len(nums)-i-1):
-            if nums[j] > nums[j+1]:
-                nums[j], nums[j+1] = nums[j+1], nums[j]
+    for n in range(len(nums) - 1, 0, -1):
+        for i in range(n):
+            if nums[i] > nums[i+1]:
+                nums[i], nums[i+1] = nums[i+1], nums[i]
     return nums
 
 array = [5,9,3,10,45,2,0]
